@@ -1,0 +1,3 @@
+C:/Users/ander/OneDrive/development/Inventory/cmake-build-debug/CMakeFiles/Inventory.dir
+C:/Users/ander/OneDrive/development/Inventory/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ander/OneDrive/development/Inventory/cmake-build-debug/CMakeFiles/rebuild_cache.dir

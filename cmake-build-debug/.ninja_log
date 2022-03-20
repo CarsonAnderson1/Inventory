@@ -1,0 +1,7 @@
+# ninja log v5
+48	1172	6694431083384704	CMakeFiles/Inventory.dir/menu_element.cpp.obj	3ec898fad32a601a
+3	1231	6694431083543803	CMakeFiles/Inventory.dir/Item.cpp.obj	7bbb45bc65b1717b
+28	1324	6694431085029188	CMakeFiles/Inventory.dir/Inventory.cpp.obj	4c64ff721e8c700
+43	1325	6694431085275424	CMakeFiles/Inventory.dir/menu.cpp.obj	d3a7f51d7a8c236f
+36	1406	6694431086173549	CMakeFiles/Inventory.dir/main.cpp.obj	ecdfe15d17c77634
+1406	1863	6694431089863806	Inventory.exe	b0d35c75ac4bfa40
