@@ -14,4 +14,7 @@ add_executable(Inventory
         menu.cpp
         menu.h
         menu_element.cpp
-        menu_element.h)
+        menu_element.h
+        static_functions.h
+        static_functions.cpp)
+

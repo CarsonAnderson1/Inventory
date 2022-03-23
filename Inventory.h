@@ -20,6 +20,7 @@ private:
     };
     Node* _head = nullptr;
     size_t _size = 0;
+    size_t _maxSize = 0;
 public:
     Inventory();
     ~Inventory();
@@ -30,6 +31,9 @@ public:
     bool Remove(const string& itemName, const int amount);
     size_t GetIndex(const string& itemName);
     size_t GetSize();
+    size_t GetMax()const;
+    bool SetMaxInventory(const size_t& max);
+    Item* Get(const size_t& index)const;
 };
 
 

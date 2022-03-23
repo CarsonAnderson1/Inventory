@@ -1,0 +1,2255 @@
+
+acacia boat	Acacia Boat
+(minecraft:acacia_boat)	447
+acacia button	Acacia Button
+(minecraft:acacia_button)
+acacia door	Acacia Door
+(minecraft:acacia_door)	430
+acacia fence	Acacia Fence
+(minecraft:acacia_fence)	192
+acacia fence gate	Acacia Fence Gate
+(minecraft:acacia_fence_gate)	187
+acacia leaves	Acacia Leaves
+(minecraft:acacia_leaves)
+acacia log	Acacia Log
+(minecraft:acacia_log)
+acacia planks	Acacia Planks
+(minecraft:acacia_planks)
+acacia pressure plate	Acacia Pressure Plate
+(minecraft:acacia_pressure_plate)
+acacia sapling	Acacia Sapling
+(minecraft:acacia_sapling)
+acacia sign	Acacia Sign
+(minecraft:acacia_sign)
+acacia slab	Acacia Slab
+(minecraft:acacia_slab)
+acacia stairs	Acacia Stairs
+(minecraft:acacia_stairs)	163
+acacia trapdoor	Acacia Trapdoor
+(minecraft:acacia_trapdoor)
+acacia wood with bark	Acacia Wood with Bark
+(minecraft:acacia_wood)
+activator rails	Activator Rails
+(minecraft:activator_rail)	157
+air	Air
+(minecraft:air)	0
+allium	Allium
+(minecraft:allium)
+ancient debris	Ancient Debris
+(minecraft:ancient_debris)
+andesite	Andesite
+(minecraft:andesite)
+andesite slab	Andesite Slab
+(minecraft:andesite_slab)
+andesite stairs	Andesite Stairs
+(minecraft:andesite_stairs)
+andesite wall	Andesite Wall
+(minecraft:andesite_wall)
+anvil	Anvil
+(minecraft:anvil)	145
+apple	Apple
+(minecraft:apple)	260
+armor stand	Armor Stand
+(minecraft:armor_stand)	416
+arrow	Arrow
+(minecraft:arrow)	262
+azure bluet	Azure Bluet
+(minecraft:azure_bluet)
+baked potato	Baked Potato
+(minecraft:baked_potato)	393
+bamboo	Bamboo
+(minecraft:bamboo)
+barrel	Barrel
+(minecraft:barrel)
+barrier	Barrier
+(minecraft:barrier)	166
+basalt	Basalt
+(minecraft:basalt)
+bat spawn egg	Bat Spawn Egg
+(minecraft:bat_spawn_egg)
+beacon	Beacon
+(minecraft:beacon)	138
+bedrock	Bedrock
+(minecraft:bedrock)
+bee nest	Bee Nest
+(minecraft:bee_nest)
+bee spawn egg	Bee Spawn Egg
+(minecraft:bee_spawn_egg)
+raw beef	Raw Beef
+(minecraft:beef)	363
+beehive	Beehive
+(minecraft:beehive)
+beetroot	Beetroot
+(minecraft:beetroot)	434
+beetroot seeds	Beetroot Seeds
+(minecraft:beetroot_seeds)	435
+beetroot soup	Beetroot Soup
+(minecraft:beetroot_soup)	436
+bell	Bell
+(minecraft:bell)
+birch boat	Birch Boat
+(minecraft:birch_boat)	445
+birch button	Birch Button
+(minecraft:birch_button)
+birch door	Birch Door
+(minecraft:birch_door)	428
+birch fence	Birch Fence
+(minecraft:birch_fence)	189
+birch fence gate	Birch Fence Gate
+(minecraft:birch_fence_gate)	184
+birch leaves	Birch Leaves
+(minecraft:birch_leaves)
+birch log	Birch Log
+(minecraft:birch_log)
+birch planks	Birch Planks
+(minecraft:birch_planks)
+birch pressure plate	Birch Pressure Plate
+(minecraft:birch_pressure_plate)
+birch sapling	Birch Sapling
+(minecraft:birch_sapling)
+birch sign	Birch Sign
+(minecraft:birch_sign)
+birch slab	Birch Slab
+(minecraft:birch_slab)
+birch stairs	Birch Stairs
+(minecraft:birch_stairs)	135
+birch trapdoor	Birch Trapdoor
+(minecraft:birch_trapdoor)
+birch wood with bark	Birch Wood with Bark
+(minecraft:birch_wood)
+black banner	Black Banner
+(minecraft:black_banner)
+black bed	Black Bed
+(minecraft:black_bed)
+black carpet	Black Carpet
+(minecraft:black_carpet)
+black concrete	Black Concrete
+(minecraft:black_concrete)
+black concrete powder	Black Concrete Powder
+(minecraft:black_concrete_powder)
+black dye	Black Dye
+(minecraft:black_dye)
+black glazed terracotta	Black Glazed Terracotta
+(minecraft:black_glazed_terracotta)	250
+black shulker box	Black Shulker Box
+(minecraft:black_shulker_box)	234
+black stained glass	Black Stained Glass
+(minecraft:black_stained_glass)
+black stained glass pane	Black Stained Glass Pane
+(minecraft:black_stained_glass_pane)
+black terracotta	Black Terracotta
+(minecraft:black_terracotta)
+black wool	Black Wool
+(minecraft:black_wool)
+blackstone	Blackstone
+(minecraft:blackstone)
+blackstone slab	Blackstone Slab
+(minecraft:blackstone_slab)
+blackstone stairs	Blackstone Stairs
+(minecraft:blackstone_stairs)
+blackstone wall	Blackstone Wall
+(minecraft:blackstone_wall)
+blast furnace	Blast Furnace
+(minecraft:blast_furnace)
+blaze powder	Blaze Powder
+(minecraft:blaze_powder)	377
+blaze rod	Blaze Rod
+(minecraft:blaze_rod)	369
+blaze spawn egg	Blaze Spawn Egg
+(minecraft:blaze_spawn_egg)
+blue banner	Blue Banner
+(minecraft:blue_banner)
+blue bed	Blue Bed
+(minecraft:blue_bed)
+blue carpet	Blue Carpet
+(minecraft:blue_carpet)
+blue concrete	Blue Concrete
+(minecraft:blue_concrete)
+blue concrete powder	Blue Concrete Powder
+(minecraft:blue_concrete_powder)
+blue dye	Blue Dye
+(minecraft:blue_dye)
+blue glazed terracotta	Blue Glazed Terracotta
+(minecraft:blue_glazed_terracotta)	246
+blue ice	Blue Ice
+(minecraft:blue_ice)
+blue orchid	Blue Orchid
+(minecraft:blue_orchid)
+blue shulker box	Blue Shulker Box
+(minecraft:blue_shulker_box)	230
+blue stained glass	Blue Stained Glass
+(minecraft:blue_stained_glass)
+blue stained glass pane	Blue Stained Glass Pane
+(minecraft:blue_stained_glass_pane)
+blue terracotta	Blue Terracotta
+(minecraft:blue_terracotta)
+blue wool	Blue Wool
+(minecraft:blue_wool)
+bone	Bone
+(minecraft:bone)	352
+bone block	Bone Block
+(minecraft:bone_block)	216
+bone meal	Bone Meal
+(minecraft:bone_meal)
+book	Book
+(minecraft:book)	340
+bookshelf	Bookshelf
+(minecraft:bookshelf)	47
+bow	Bow
+(minecraft:bow)	261
+bowl	Bowl
+(minecraft:bowl)	281
+brain coral	Brain Coral
+(minecraft:brain_coral)
+brain coral block	Brain Coral Block
+(minecraft:brain_coral_block)
+brain coral fan	Brain Coral Fan
+(minecraft:brain_coral_fan)
+bread	Bread
+(minecraft:bread)	297
+brewing stand	Brewing Stand
+(minecraft:brewing_stand)	379
+brick	Brick
+(minecraft:brick)	336
+brick slab	Brick Slab
+(minecraft:brick_slab)
+brick stairs	Brick Stairs
+(minecraft:brick_stairs)	108
+brick wall	Brick Wall
+(minecraft:brick_wall)
+bricks	Bricks
+(minecraft:bricks)
+brown banner	Brown Banner
+(minecraft:brown_banner)
+brown bed	Brown Bed
+(minecraft:brown_bed)
+brown carpet	Brown Carpet
+(minecraft:brown_carpet)
+brown concrete	Brown Concrete
+(minecraft:brown_concrete)
+brown concrete powder	Brown Concrete Powder
+(minecraft:brown_concrete_powder)
+brown dye	Brown Dye
+(minecraft:brown_dye)
+brown glazed terracotta	Brown Glazed Terracotta
+(minecraft:brown_glazed_terracotta)	247
+mushroom (brown)	Mushroom (brown)
+(minecraft:brown_mushroom)	39
+brown mushroom block	Brown Mushroom Block
+(minecraft:brown_mushroom_block)	99
+brown shulker box	Brown Shulker Box
+(minecraft:brown_shulker_box)	231
+brown stained glass	Brown Stained Glass
+(minecraft:brown_stained_glass)
+brown stained glass pane	Brown Stained Glass Pane
+(minecraft:brown_stained_glass_pane)
+brown terracotta	Brown Terracotta
+(minecraft:brown_terracotta)
+brown wool	Brown Wool
+(minecraft:brown_wool)
+bubble coral	Bubble Coral
+(minecraft:bubble_coral)
+bubble coral block	Bubble Coral Block
+(minecraft:bubble_coral_block)
+bubble coral fan	Bubble Coral Fan
+(minecraft:bubble_coral_fan)
+bucket	Bucket
+(minecraft:bucket)	325
+cactus	Cactus
+(minecraft:cactus)	81
+cake	Cake
+(minecraft:cake)	354
+campfire	Campfire
+(minecraft:campfire)
+carrot	Carrot
+(minecraft:carrot)	391
+carrot on a stick	Carrot on a Stick
+(minecraft:carrot_on_a_stick)	398
+cartography table	Cartography Table
+(minecraft:cartography_table)
+carved pumpkin	Carved Pumpkin
+(minecraft:carved_pumpkin)
+cat spawn egg	Cat Spawn Egg
+(minecraft:cat_spawn_egg)
+cauldron	Cauldron
+(minecraft:cauldron)	380
+cave spider spawn egg	Cave Spider Spawn Egg
+(minecraft:cave_spider_spawn_egg)
+chain	Chain
+(minecraft:chain)
+chain command block	Chain Command Block
+(minecraft:chain_command_block)	211
+chain boots	Chain Boots
+(minecraft:chainmail_boots)	305
+chain chestplate	Chain Chestplate
+(minecraft:chainmail_chestplate)	303
+chain helmet	Chain Helmet
+(minecraft:chainmail_helmet)	302
+chain leggings	Chain Leggings
+(minecraft:chainmail_leggings)	304
+charcoal	Charcoal
+(minecraft:charcoal)
+chest	Chest
+(minecraft:chest)	54
+minecart with chest	Minecart with Chest
+(minecraft:chest_minecart)	342
+raw chicken	Raw Chicken
+(minecraft:chicken)	365
+chicken spawn egg	Chicken Spawn Egg
+(minecraft:chicken_spawn_egg)
+slightly damaged anvil	Slightly Damaged Anvil
+(minecraft:chipped_anvil)	145
+chiseled nether bricks	Chiseled Nether Bricks
+(minecraft:chiseled_nether_bricks)
+chiseled polished blackstone	Chiseled Polished Blackstone
+(minecraft:chiseled_polished_blackstone)
+chiseled quartz block	Chiseled Quartz Block
+(minecraft:chiseled_quartz_block)
+chiseled red sandstone	Chiseled Red Sandstone
+(minecraft:chiseled_red_sandstone)
+chiseled sandstone	Chiseled Sandstone
+(minecraft:chiseled_sandstone)
+chiseled stone bricks	Chiseled Stone Bricks
+(minecraft:chiseled_stone_bricks)
+chorus flower	Chorus Flower
+(minecraft:chorus_flower)	200
+chorus fruit	Chorus Fruit
+(minecraft:chorus_fruit)	432
+chorus plant	Chorus Plant
+(minecraft:chorus_plant)	199
+clay block	Clay Block
+(minecraft:clay)	82
+clay	Clay
+(minecraft:clay_ball)	337
+clock	Clock
+(minecraft:clock)	347
+coal	Coal
+(minecraft:coal)	263
+coal block	Coal Block
+(minecraft:coal_block)	173
+coal ore	Coal Ore
+(minecraft:coal_ore)	16
+coarse dirt	Coarse Dirt
+(minecraft:coarse_dirt)
+cobblestone	Cobblestone
+(minecraft:cobblestone)	4
+cobblestone slab	Cobblestone Slab
+(minecraft:cobblestone_slab)
+cobblestone stairs	Cobblestone Stairs
+(minecraft:cobblestone_stairs)
+cobblestone wall	Cobblestone Wall
+(minecraft:cobblestone_wall)	139
+cobweb	Cobweb
+(minecraft:cobweb)	30
+cocoa beans	Cocoa Beans
+(minecraft:cocoa_beans)
+raw cod	Raw Cod
+(minecraft:cod)
+bucket of cod	Bucket of Cod
+(minecraft:cod_bucket)
+cod spawn egg	Cod Spawn Egg
+(minecraft:cod_spawn_egg)
+command block	Command Block
+(minecraft:command_block)	137
+minecart with command block	Minecart with Command Block
+(minecraft:command_block_minecart)	422
+redstone comparator	Redstone Comparator
+(minecraft:comparator)	404
+compass	Compass
+(minecraft:compass)	345
+composter	Composter
+(minecraft:composter)
+conduit	Conduit
+(minecraft:conduit)
+steak	Steak
+(minecraft:cooked_beef)	364
+cooked chicken	Cooked Chicken
+(minecraft:cooked_chicken)	366
+cooked cod	Cooked Cod
+(minecraft:cooked_cod)
+cooked mutton	Cooked Mutton
+(minecraft:cooked_mutton)	424
+cooked porkchop	Cooked Porkchop
+(minecraft:cooked_porkchop)	320
+cooked rabbit	Cooked Rabbit
+(minecraft:cooked_rabbit)	412
+cooked salmon	Cooked Salmon
+(minecraft:cooked_salmon)
+cookie	Cookie
+(minecraft:cookie)	357
+cornflower	Cornflower
+(minecraft:cornflower)
+cow spawn egg	Cow Spawn Egg
+(minecraft:cow_spawn_egg)
+cracked nether bricks	Cracked Nether Bricks
+(minecraft:cracked_nether_bricks)
+cracked polished blackstone bricks	Cracked Polished Blackstone Bricks
+(minecraft:cracked_polished_blackstone_bricks)
+cracked stone bricks	Cracked Stone Bricks
+(minecraft:cracked_stone_bricks)
+crafting table	Crafting Table
+(minecraft:crafting_table)	58
+creeper charge banner pattern	Creeper Charge Banner Pattern
+(minecraft:creeper_banner_pattern)
+creeper head	Creeper Head
+(minecraft:creeper_head)
+creeper spawn egg	Creeper Spawn Egg
+(minecraft:creeper_spawn_egg)
+crimson button	Crimson Button
+(minecraft:crimson_button)
+crimson door	Crimson Door
+(minecraft:crimson_door)
+crimson fence	Crimson Fence
+(minecraft:crimson_fence)
+crimson fence gate	Crimson Fence Gate
+(minecraft:crimson_fence_gate)
+crimson fungus	Crimson Fungus
+(minecraft:crimson_fungus)
+crimson hyphae	Crimson Hyphae
+(minecraft:crimson_hyphae)
+crimson nylium	Crimson Nylium
+(minecraft:crimson_nylium)
+crimson planks	Crimson Planks
+(minecraft:crimson_planks)
+crimson pressure plate	Crimson Pressure Plate
+(minecraft:crimson_pressure_plate)
+crimson roots	Crimson Roots
+(minecraft:crimson_roots)
+crimson sign	Crimson Sign
+(minecraft:crimson_sign)
+crimson slab	Crimson Slab
+(minecraft:crimson_slab)
+crimson stairs	Crimson Stairs
+(minecraft:crimson_stairs)
+crimson stem	Crimson Stem
+(minecraft:crimson_stem)
+crimson trapdoor	Crimson Trapdoor
+(minecraft:crimson_trapdoor)
+crossbow	Crossbow
+(minecraft:crossbow)
+crying obsidian	Crying Obsidian
+(minecraft:crying_obsidian)
+cut red sandstone	Cut Red Sandstone
+(minecraft:cut_red_sandstone)
+cut red sandstone slab	Cut Red Sandstone Slab
+(minecraft:cut_red_sandstone_slab)
+cut sandstone	Cut Sandstone
+(minecraft:cut_sandstone)
+cut sandstone slab	Cut Sandstone Slab
+(minecraft:cut_sandstone_slab)
+cyan banner	Cyan Banner
+(minecraft:cyan_banner)
+cyan bed	Cyan Bed
+(minecraft:cyan_bed)
+cyan carpet	Cyan Carpet
+(minecraft:cyan_carpet)
+cyan concrete	Cyan Concrete
+(minecraft:cyan_concrete)
+cyan concrete powder	Cyan Concrete Powder
+(minecraft:cyan_concrete_powder)
+cyan dye	Cyan Dye
+(minecraft:cyan_dye)
+cyan glazed terracotta	Cyan Glazed Terracotta
+(minecraft:cyan_glazed_terracotta)	244
+cyan shulker box	Cyan Shulker Box
+(minecraft:cyan_shulker_box)	228
+cyan stained glass	Cyan Stained Glass
+(minecraft:cyan_stained_glass)
+cyan stained glass pane	Cyan Stained Glass Pane
+(minecraft:cyan_stained_glass_pane)
+cyan terracotta	Cyan Terracotta
+(minecraft:cyan_terracotta)
+cyan wool	Cyan Wool
+(minecraft:cyan_wool)
+very damaged anvil	Very Damaged Anvil
+(minecraft:damaged_anvil)	145
+dandelion	Dandelion
+(minecraft:dandelion)	37
+dark oak boat	Dark Oak Boat
+(minecraft:dark_oak_boat)	448
+dark oak button	Dark Oak Button
+(minecraft:dark_oak_button)
+dark oak door	Dark Oak Door
+(minecraft:dark_oak_door)	431
+dark oak fence	Dark Oak Fence
+(minecraft:dark_oak_fence)	191
+dark oak fence gate	Dark Oak Fence Gate
+(minecraft:dark_oak_fence_gate)	186
+dark oak leaves	Dark Oak Leaves
+(minecraft:dark_oak_leaves)
+dark oak log	Dark Oak Log
+(minecraft:dark_oak_log)
+dark oak planks	Dark Oak Planks
+(minecraft:dark_oak_planks)
+dark oak pressure plate	Dark Oak Pressure Plate
+(minecraft:dark_oak_pressure_plate)
+dark oak sapling	Dark Oak Sapling
+(minecraft:dark_oak_sapling)
+dark oak sign	Dark Oak Sign
+(minecraft:dark_oak_sign)
+dark oak slab	Dark Oak Slab
+(minecraft:dark_oak_slab)
+dark oak stairs	Dark Oak Stairs
+(minecraft:dark_oak_stairs)	164
+dark oak trapdoor	Dark Oak Trapdoor
+(minecraft:dark_oak_trapdoor)
+dark oak wood with bark	Dark Oak Wood with Bark
+(minecraft:dark_oak_wood)
+dark prismarine	Dark Prismarine
+(minecraft:dark_prismarine)
+dark prismarine slab	Dark Prismarine Slab
+(minecraft:dark_prismarine_slab)
+dark prismarine stairs	Dark Prismarine Stairs
+(minecraft:dark_prismarine_stairs)
+daylight sensor	Daylight Sensor
+(minecraft:daylight_detector)	151
+dead brain coral	Dead Brain Coral
+(minecraft:dead_brain_coral)
+dead brain coral block	Dead Brain Coral Block
+(minecraft:dead_brain_coral_block)
+dead brain coral fan	Dead Brain Coral Fan
+(minecraft:dead_brain_coral_fan)
+dead bubble coral	Dead Bubble Coral
+(minecraft:dead_bubble_coral)
+dead bubble coral block	Dead Bubble Coral Block
+(minecraft:dead_bubble_coral_block)
+dead bubble coral fan	Dead Bubble Coral Fan
+(minecraft:dead_bubble_coral_fan)
+dead bush	Dead Bush
+(minecraft:dead_bush)	32
+dead fire coral	Dead Fire Coral
+(minecraft:dead_fire_coral)
+dead fire coral block	Dead Fire Coral Block
+(minecraft:dead_fire_coral_block)
+dead fire coral fan	Dead Fire Coral Fan
+(minecraft:dead_fire_coral_fan)
+dead horn coral	Dead Horn Coral
+(minecraft:dead_horn_coral)
+dead horn coral block	Dead Horn Coral Block
+(minecraft:dead_horn_coral_block)
+dead horn coral fan	Dead Horn Coral Fan
+(minecraft:dead_horn_coral_fan)
+dead tube coral	Dead Tube Coral
+(minecraft:dead_tube_coral)
+dead tube coral block	Dead Tube Coral Block
+(minecraft:dead_tube_coral_block)
+dead tube coral fan	Dead Tube Coral Fan
+(minecraft:dead_tube_coral_fan)
+debug stick	Debug Stick
+(minecraft:debug_stick)
+detector rails	Detector Rails
+(minecraft:detector_rail)	28
+diamond	Diamond
+(minecraft:diamond)	264
+diamond axe	Diamond Axe
+(minecraft:diamond_axe)	279
+block of diamond	Block of Diamond
+(minecraft:diamond_block)	57
+diamond boots	Diamond Boots
+(minecraft:diamond_boots)	313
+diamond chestplate	Diamond Chestplate
+(minecraft:diamond_chestplate)	311
+diamond helmet	Diamond Helmet
+(minecraft:diamond_helmet)	310
+diamond hoe	Diamond Hoe
+(minecraft:diamond_hoe)	293
+diamond horse armor	Diamond Horse Armor
+(minecraft:diamond_horse_armor)	419
+diamond leggings	Diamond Leggings
+(minecraft:diamond_leggings)	312
+diamond ore	Diamond Ore
+(minecraft:diamond_ore)	56
+diamond pickaxe	Diamond Pickaxe
+(minecraft:diamond_pickaxe)	278
+diamond shovel	Diamond Shovel
+(minecraft:diamond_shovel)	277
+diamond sword	Diamond Sword
+(minecraft:diamond_sword)	276
+diorite	Diorite
+(minecraft:diorite)
+diorite slab	Diorite Slab
+(minecraft:diorite_slab)
+diorite stairs	Diorite Stairs
+(minecraft:diorite_stairs)
+diorite wall	Diorite Wall
+(minecraft:diorite_wall)
+dirt	Dirt
+(minecraft:dirt)	3
+dispenser	Dispenser
+(minecraft:dispenser)	23
+dolphin spawn egg	Dolphin Spawn Egg
+(minecraft:dolphin_spawn_egg)
+donkey spawn egg	Donkey Spawn Egg
+(minecraft:donkey_spawn_egg)
+dragon's breath	Dragon's Breath
+(minecraft:dragon_breath)	437
+dragon egg	Dragon Egg
+(minecraft:dragon_egg)	122m,
+dragon head	Dragon Head
+(minecraft:dragon_head)
+dried kelp	Dried Kelp
+(minecraft:dried_kelp)
+dried kelp block	Dried Kelp Block
+(minecraft:dried_kelp_block)
+dropper	Dropper
+(minecraft:dropper)	158
+drowned spawn egg	Drowned Spawn Egg
+(minecraft:drowned_spawn_egg)
+egg	Egg
+(minecraft:egg)	344
+elder guardian spawn egg	Elder Guardian Spawn Egg
+(minecraft:elder_guardian_spawn_egg)
+elytra	Elytra
+(minecraft:elytra)	443
+emerald	Emerald
+(minecraft:emerald)	388
+block of emerald	Block of Emerald
+(minecraft:emerald_block)	133
+emerald ore	Emerald Ore
+(minecraft:emerald_ore)	129
+enchanted book	Enchanted Book
+(minecraft:enchanted_book)	403
+enchanted golden apple	Enchanted Golden Apple
+(minecraft:enchanted_golden_apple)	466
+enchanting table	Enchanting Table
+(minecraft:enchanting_table)	116
+end crystal	End Crystal
+(minecraft:end_crystal)	426
+end portal frame	End Portal Frame
+(minecraft:end_portal_frame)	120
+end rod	End Rod
+(minecraft:end_rod)	198
+end stone	End Stone
+(minecraft:end_stone)	121
+end stone brick slab	End Stone Brick Slab
+(minecraft:end_stone_brick_slab)
+end stone brick stairs	End Stone Brick Stairs
+(minecraft:end_stone_brick_stairs)
+end stone brick wall	End Stone Brick Wall
+(minecraft:end_stone_brick_wall)
+end stone bricks	End Stone Bricks
+(minecraft:end_stone_bricks)	206
+ender chest	Ender Chest
+(minecraft:ender_chest)	130
+eye of ender	Eye of Ender
+(minecraft:ender_eye)	381
+ender pearl	Ender Pearl
+(minecraft:ender_pearl)	368
+enderman spawn egg	Enderman Spawn Egg
+(minecraft:enderman_spawn_egg)
+endermite spawn egg	Endermite Spawn Egg
+(minecraft:endermite_spawn_egg)
+evoker spawn egg	Evoker Spawn Egg
+(minecraft:evoker_spawn_egg)
+bottle o'enchanting	Bottle o'Enchanting
+(minecraft:experience_bottle)	384
+farmland	Farmland
+(minecraft:farmland)	60
+feather	Feather
+(minecraft:feather)	288
+fermented spider eye	Fermented Spider Eye
+(minecraft:fermented_spider_eye)	376
+fern	Fern
+(minecraft:fern)
+map (filled)	Map (Filled)
+(minecraft:filled_map)	358
+fire charge	Fire Charge
+(minecraft:fire_charge)	385
+fire coral	Fire Coral
+(minecraft:fire_coral)
+fire coral block	Fire Coral Block
+(minecraft:fire_coral_block)
+fire coral fan	Fire Coral Fan
+(minecraft:fire_coral_fan)
+firework rocket	Firework Rocket
+(minecraft:firework_rocket)	401
+firework star	Firework Star
+(minecraft:firework_star)	402
+fishing rod	Fishing Rod
+(minecraft:fishing_rod)	346
+fletching table	Fletching Table
+(minecraft:fletching_table)
+flint	Flint
+(minecraft:flint)	318
+flint and steel	Flint and Steel
+(minecraft:flint_and_steel)	259
+flower charge banner pattern	Flower Charge Banner Pattern
+(minecraft:flower_banner_pattern)
+flower pot	Flower Pot
+(minecraft:flower_pot)	390
+fox spawn egg	Fox Spawn Egg
+(minecraft:fox_spawn_egg)
+furnace	Furnace
+(minecraft:furnace)	61
+minecart with furnace	Minecart with Furnace
+(minecraft:furnace_minecart)	343
+ghast spawn egg	Ghast Spawn Egg
+(minecraft:ghast_spawn_egg)
+ghast tear	Ghast Tear
+(minecraft:ghast_tear)	370
+gilded blackstone	Gilded Blackstone
+(minecraft:gilded_blackstone)
+glass	Glass
+(minecraft:glass)	20
+glass bottle	Glass Bottle
+(minecraft:glass_bottle)	374
+glass pane	Glass Pane
+(minecraft:glass_pane)	102
+glistering melon	Glistering Melon
+(minecraft:glistering_melon_slice)	382
+globe banner pattern	Globe Banner Pattern
+(minecraft:globe_banner_pattern)
+glowstone	Glowstone
+(minecraft:glowstone)	89
+glowstone dust	Glowstone Dust
+(minecraft:glowstone_dust)	348
+block of gold	Block of Gold
+(minecraft:gold_block)	41
+gold ingot	Gold Ingot
+(minecraft:gold_ingot)	266
+gold nugget	Gold Nugget
+(minecraft:gold_nugget)	371
+gold ore	Gold Ore
+(minecraft:gold_ore)	14
+golden apple	Golden Apple
+(minecraft:golden_apple)	322
+golden axe	Golden Axe
+(minecraft:golden_axe)	286
+golden boots	Golden Boots
+(minecraft:golden_boots)	317
+golden carrot	Golden Carrot
+(minecraft:golden_carrot)	396
+golden chestplate	Golden Chestplate
+(minecraft:golden_chestplate)	315
+golden helmet	Golden Helmet
+(minecraft:golden_helmet)	314
+golden hoe	Golden Hoe
+(minecraft:golden_hoe)	294
+gold horse armor	Gold Horse Armor
+(minecraft:golden_horse_armor)	418
+golden leggings	Golden Leggings
+(minecraft:golden_leggings)	316
+golden pickaxe	Golden Pickaxe
+(minecraft:golden_pickaxe)	285
+golden shovel	Golden Shovel
+(minecraft:golden_shovel)	284
+golden sword	Golden Sword
+(minecraft:golden_sword)	283
+granite	Granite
+(minecraft:granite)
+granite slab	Granite Slab
+(minecraft:granite_slab)
+granite stairs	Granite Stairs
+(minecraft:granite_stairs)
+granite wall	Granite Wall
+(minecraft:granite_wall)
+grass	Grass
+(minecraft:grass)
+grass block	Grass Block
+(minecraft:grass_block)	2
+dirt path	Dirt Path
+(minecraft:grass_path)	208
+gravel	Gravel
+(minecraft:gravel)	13
+gray banner	Gray Banner
+(minecraft:gray_banner)
+gray bed	Gray Bed
+(minecraft:gray_bed)
+gray carpet	Gray Carpet
+(minecraft:gray_carpet)
+gray concrete	Gray Concrete
+(minecraft:gray_concrete)
+gray concrete powder	Gray Concrete Powder
+(minecraft:gray_concrete_powder)
+gray dye	Gray Dye
+(minecraft:gray_dye)
+gray glazed terracotta	Gray Glazed Terracotta
+(minecraft:gray_glazed_terracotta)	242
+gray shulker box	Gray Shulker Box
+(minecraft:gray_shulker_box)	226
+gray stained glass	Gray Stained Glass
+(minecraft:gray_stained_glass)
+gray stained glass pane	Gray Stained Glass Pane
+(minecraft:gray_stained_glass_pane)
+gray terracotta	Gray Terracotta
+(minecraft:gray_terracotta)
+gray wool	Gray Wool
+(minecraft:gray_wool)
+green banner	Green Banner
+(minecraft:green_banner)
+green bed	Green Bed
+(minecraft:green_bed)
+green carpet	Green Carpet
+(minecraft:green_carpet)
+green concrete	Green Concrete
+(minecraft:green_concrete)
+green concrete powder	Green Concrete Powder
+(minecraft:green_concrete_powder)
+green dye	Green Dye
+(minecraft:green_dye)
+green glazed terracotta	Green Glazed Terracotta
+(minecraft:green_glazed_terracotta)	248
+green shulker box	Green Shulker Box
+(minecraft:green_shulker_box)	232
+green stained glass	Green Stained Glass
+(minecraft:green_stained_glass)
+green stained glass pane	Green Stained Glass Pane
+(minecraft:green_stained_glass_pane)
+green terracotta	Green Terracotta
+(minecraft:green_terracotta)
+green wool	Green Wool
+(minecraft:green_wool)
+grindstone	Grindstone
+(minecraft:grindstone)
+guardian spawn egg	Guardian Spawn Egg
+(minecraft:guardian_spawn_egg)
+gunpowder	Gunpowder
+(minecraft:gunpowder)	289
+hay bale	Hay Bale
+(minecraft:hay_block)	170
+heart of the sea	Heart of the Sea
+(minecraft:heart_of_the_sea)
+heavy weighted pressure plate	Heavy Weighted Pressure Plate
+(minecraft:heavy_weighted_pressure_plate)	148
+hoglin spawn egg	Hoglin Spawn Egg
+(minecraft:hoglin_spawn_egg)
+honey block	Honey Block
+(minecraft:honey_block)
+honey bottle	Honey Bottle
+(minecraft:honey_bottle)
+honeycomb	Honeycomb
+(minecraft:honeycomb)
+honeycomb block	Honeycomb Block
+(minecraft:honeycomb_block)
+hopper	Hopper
+(minecraft:hopper)	154
+minecart with hopper	Minecart with Hopper
+(minecraft:hopper_minecart)	408
+horn coral	Horn Coral
+(minecraft:horn_coral)
+horn coral block	Horn Coral Block
+(minecraft:horn_coral_block)
+horn coral fan	Horn Coral Fan
+(minecraft:horn_coral_fan)
+horse spawn egg	Horse Spawn Egg
+(minecraft:horse_spawn_egg)
+husk spawn egg	Husk Spawn Egg
+(minecraft:husk_spawn_egg)
+ice	Ice
+(minecraft:ice)	79
+infested chiseled stone bricks	Infested Chiseled Stone Bricks
+(minecraft:infested_chiseled_stone_bricks)
+infested cobblestone	Infested Cobblestone
+(minecraft:infested_cobblestone)
+infested cracked stone bricks	Infested Cracked Stone Bricks
+(minecraft:infested_cracked_stone_bricks)
+infested mossy stone bricks	Infested Mossy Stone Bricks
+(minecraft:infested_mossy_stone_bricks)
+infested stone	Infested Stone
+(minecraft:infested_stone)
+infested stone bricks	Infested Stone Bricks
+(minecraft:infested_stone_bricks)
+ink sac	Ink Sac
+(minecraft:ink_sac)
+iron axe	Iron Axe
+(minecraft:iron_axe)	258
+iron bars	Iron Bars
+(minecraft:iron_bars)	101
+block of iron	Block of Iron
+(minecraft:iron_block)	42
+iron boots	Iron Boots
+(minecraft:iron_boots)	309
+iron chestplate	Iron Chestplate
+(minecraft:iron_chestplate)	307
+iron door	Iron Door
+(minecraft:iron_door)	330
+iron helmet	Iron Helmet
+(minecraft:iron_helmet)	306
+iron hoe	Iron Hoe
+(minecraft:iron_hoe)	292
+iron horse armor	Iron Horse Armor
+(minecraft:iron_horse_armor)	417
+iron ingot	Iron Ingot
+(minecraft:iron_ingot)	265
+iron leggings	Iron Leggings
+(minecraft:iron_leggings)	308
+iron nugget	Iron Nugget
+(minecraft:iron_nugget)	452
+iron ore	Iron Ore
+(minecraft:iron_ore)	15
+iron pickaxe	Iron Pickaxe
+(minecraft:iron_pickaxe)	257
+iron shovel	Iron Shovel
+(minecraft:iron_shovel)	256
+iron sword	Iron Sword
+(minecraft:iron_sword)	267
+iron trapdoor	Iron Trapdoor
+(minecraft:iron_trapdoor)	167
+item frame	Item Frame
+(minecraft:item_frame)	389
+jack o'lantern	Jack o'Lantern
+(minecraft:jack_o_lantern)	91
+jigsaw block	Jigsaw Block
+(minecraft:jigsaw)
+jukebox	Jukebox
+(minecraft:jukebox)	84
+jungle boat	Jungle Boat
+(minecraft:jungle_boat)	446
+jungle button	Jungle Button
+(minecraft:jungle_button)
+jungle door	Jungle Door
+(minecraft:jungle_door)	429
+jungle fence	Jungle Fence
+(minecraft:jungle_fence)	190
+jungle fence gate	Jungle Fence Gate
+(minecraft:jungle_fence_gate)	185
+jungle leaves	Jungle Leaves
+(minecraft:jungle_leaves)
+jungle log	Jungle Log
+(minecraft:jungle_log)
+jungle planks	Jungle Planks
+(minecraft:jungle_planks)
+jungle pressure plate	Jungle Pressure Plate
+(minecraft:jungle_pressure_plate)
+jungle sapling	Jungle Sapling
+(minecraft:jungle_sapling)
+jungle sign	Jungle Sign
+(minecraft:jungle_sign)
+jungle slab	Jungle Slab
+(minecraft:jungle_slab)
+jungle stairs	Jungle Stairs
+(minecraft:jungle_stairs)	136
+jungle trapdoor	Jungle Trapdoor
+(minecraft:jungle_trapdoor)
+jungle wood with bark	Jungle Wood with Bark
+(minecraft:jungle_wood)
+kelp	Kelp
+(minecraft:kelp)
+knowledge book	Knowledge Book
+(minecraft:knowledge_book)	453
+ladder	Ladder
+(minecraft:ladder)	65
+lantern	Lantern
+(minecraft:lantern)
+lapis lazuli block	Lapis Lazuli Block
+(minecraft:lapis_block)	22
+lapis lazuli	Lapis Lazuli
+(minecraft:lapis_lazuli)
+lapis lazuli ore	Lapis Lazuli Ore
+(minecraft:lapis_ore)	21
+large fern	Large Fern
+(minecraft:large_fern)
+lava	Lava
+(minecraft:lava)
+lava bucket	Lava Bucket
+(minecraft:lava_bucket)	327
+lead	Lead
+(minecraft:lead)	420
+leather	Leather
+(minecraft:leather)	334
+leather boots	Leather Boots
+(minecraft:leather_boots)	301
+leather tunic	Leather Tunic
+(minecraft:leather_chestplate)	299
+leather cap	Leather Cap
+(minecraft:leather_helmet)	298
+leather horse armor	Leather Horse Armor
+(minecraft:leather_horse_armor)
+leather pants	Leather Pants
+(minecraft:leather_leggings)	300
+lecturn	Lecturn
+(minecraft:lectern)
+lever	Lever
+(minecraft:lever)	69
+light blue banner	Light Blue Banner
+(minecraft:light_blue_banner)
+light blue bed	Light Blue Bed
+(minecraft:light_blue_bed)
+light blue carpet	Light Blue Carpet
+(minecraft:light_blue_carpet)
+light blue concrete	Light Blue Concrete
+(minecraft:light_blue_concrete)
+light blue concrete powder	Light Blue Concrete Powder
+(minecraft:light_blue_concrete_powder)
+light blue dye	Light Blue Dye
+(minecraft:light_blue_dye)
+light blue glazed terracotta	Light Blue Glazed Terracotta
+(minecraft:light_blue_glazed_terracotta)	238
+light blue shulker box	Light Blue Shulker Box
+(minecraft:light_blue_shulker_box)	222
+light blue stained glass	Light Blue Stained Glass
+(minecraft:light_blue_stained_glass)
+light blue stained glass pane	Light Blue Stained Glass Pane
+(minecraft:light_blue_stained_glass_pane)
+light blue terracotta	Light Blue Terracotta
+(minecraft:light_blue_terracotta)
+light blue wool	Light Blue Wool
+(minecraft:light_blue_wool)
+light gray banner	Light Gray Banner
+(minecraft:light_gray_banner)
+light gray bed	Light Gray Bed
+(minecraft:light_gray_bed)
+light gray carpet	Light Gray Carpet
+(minecraft:light_gray_carpet)
+light gray concrete	Light Gray Concrete
+(minecraft:light_gray_concrete)
+light gray concrete powder	Light Gray Concrete Powder
+(minecraft:light_gray_concrete_powder)
+light gray dye	Light Gray Dye
+(minecraft:light_gray_dye)
+light gray glazed terracotta	Light Gray Glazed Terracotta
+(minecraft:light_gray_glazed_terracotta)
+light gray shulker box	Light Gray Shulker Box
+(minecraft:light_gray_shulker_box)
+light gray stained glass	Light Gray Stained Glass
+(minecraft:light_gray_stained_glass)
+light gray stained glass pane	Light Gray Stained Glass Pane
+(minecraft:light_gray_stained_glass_pane)
+light gray terracotta	Light Gray Terracotta
+(minecraft:light_gray_terracotta)
+light gray wool	Light Gray Wool
+(minecraft:light_gray_wool)
+light weighted pressure plate	Light Weighted Pressure Plate
+(minecraft:light_weighted_pressure_plate)	147
+lilac	Lilac
+(minecraft:lilac)
+lily of the valley	Lily of the Valley
+(minecraft:lily_of_the_valley)
+lily pad	Lily Pad
+(minecraft:lily_pad)	111
+lime banner	Lime Banner
+(minecraft:lime_banner)
+lime bed	Lime Bed
+(minecraft:lime_bed)
+lime carpet	Lime Carpet
+(minecraft:lime_carpet)
+lime concrete	Lime Concrete
+(minecraft:lime_concrete)
+lime concrete powder	Lime Concrete Powder
+(minecraft:lime_concrete_powder)
+lime dye	Lime Dye
+(minecraft:lime_dye)
+lime glazed terracotta	Lime Glazed Terracotta
+(minecraft:lime_glazed_terracotta)	240
+lime shulker box	Lime Shulker Box
+(minecraft:lime_shulker_box)	224
+lime stained glass	Lime Stained Glass
+(minecraft:lime_stained_glass)
+lime stained glass pane	Lime Stained Glass Pane
+(minecraft:lime_stained_glass_pane)
+lime terracotta	Lime Terracotta
+(minecraft:lime_terracotta)
+lime wool	Lime Wool
+(minecraft:lime_wool)
+lingering potion of fire resistance (0:45)	Lingering Potion of Fire Resistance (0:45)
+(minecraft:lingering_potion)	441
+lingering potion of fire resistance (2:00)	Lingering Potion of Fire Resistance (2:00)
+(minecraft:lingering_potion)	441
+lingering potion of harming (instant damage ii)	Lingering Potion of Harming (Instant Damage II)
+(minecraft:lingering_potion)	441
+lingering potion of harming (instant damage)	Lingering Potion of Harming (Instant Damage)
+(minecraft:lingering_potion)	441
+lingering potion of healing (instant health ii)	Lingering Potion of Healing (Instant Health II)
+(minecraft:lingering_potion)	441
+lingering potion of healing (instant health)	Lingering Potion of Healing (Instant Health)
+(minecraft:lingering_potion)	441
+lingering potion of invisibility (0:45)	Lingering Potion of Invisibility (0:45)
+(minecraft:lingering_potion)	441
+lingering potion of invisibility (2:00)	Lingering Potion of Invisibility (2:00)
+(minecraft:lingering_potion)	441
+lingering potion of leaping (0:22 - jump boost ii)	Lingering Potion of Leaping (0:22 - Jump Boost II)
+(minecraft:lingering_potion)	441
+lingering potion of leaping (0:45 - jump boost)	Lingering Potion of Leaping (0:45 - Jump Boost)
+(minecraft:lingering_potion)	441
+lingering potion of leaping (2:00 - jump boost)	Lingering Potion of Leaping (2:00 - Jump Boost)
+(minecraft:lingering_potion)	441
+lingering potion of luck (1:15)	Lingering Potion of Luck (1:15)
+(minecraft:lingering_potion)	441
+lingering potion of night vision (0:45)	Lingering Potion of Night Vision (0:45)
+(minecraft:lingering_potion)	441
+lingering potion of night vision (2:00)	Lingering Potion of Night Vision (2:00)
+(minecraft:lingering_potion)	441
+lingering potion of poison (0:05 - poison ii)	Lingering Potion of Poison (0:05 - Poison II)
+(minecraft:lingering_potion)	441
+lingering potion of poison (0:11)	Lingering Potion of Poison (0:11)
+(minecraft:lingering_potion)	441
+lingering potion of poison (0:22)	Lingering Potion of Poison (0:22)
+(minecraft:lingering_potion)	441
+lingering potion of regeneration (0:05 - regeneration ii)	Lingering Potion of Regeneration (0:05 - Regeneration II)
+(minecraft:lingering_potion)	441
+lingering potion of regeneration (0:11)	Lingering Potion of Regeneration (0:11)
+(minecraft:lingering_potion)	441
+lingering potion of regeneration (0:22)	Lingering Potion of Regeneration (0:22)
+(minecraft:lingering_potion)	441
+lingering potion of slow falling (0:22)	Lingering Potion of Slow Falling (0:22)
+(minecraft:lingering_potion)	441
+lingering potion of slow falling (1:00)	Lingering Potion of Slow Falling (1:00)
+(minecraft:lingering_potion)	441
+lingering potion of slowness (0:02 - slowness v)	Lingering Potion of Slowness (0:02 - Slowness V)
+(minecraft:lingering_potion)	441
+lingering potion of slowness (0:22)	Lingering Potion of Slowness (0:22)
+(minecraft:lingering_potion)	441
+lingering potion of slowness (1:00)	Lingering Potion of Slowness (1:00)
+(minecraft:lingering_potion)	441
+lingering potion of strength (0:22 - strength ii)	Lingering Potion of Strength (0:22 - Strength II)
+(minecraft:lingering_potion)	441
+lingering potion of strength (0:45)	Lingering Potion of Strength (0:45)
+(minecraft:lingering_potion)	441
+lingering potion of strength (2:00)	Lingering Potion of Strength (2:00)
+(minecraft:lingering_potion)	441
+lingering potion of swiftness (0:22 - speed ii)	Lingering Potion of Swiftness (0:22 - Speed II)
+(minecraft:lingering_potion)	441
+lingering potion of swiftness (0:45 - speed)	Lingering Potion of Swiftness (0:45 - Speed)
+(minecraft:lingering_potion)	441
+lingering potion of swiftness (2:00 - speed)	Lingering Potion of Swiftness (2:00 - Speed)
+(minecraft:lingering_potion)	441
+lingering potion of water breathing (0:45)	Lingering Potion of Water Breathing (0:45)
+(minecraft:lingering_potion)	441
+lingering potion of water breathing (2:00)	Lingering Potion of Water Breathing (2:00)
+(minecraft:lingering_potion)	441
+lingering potion of weakness (0:22)	Lingering Potion of Weakness (0:22)
+(minecraft:lingering_potion)	441
+lingering potion of weakness (1:00)	Lingering Potion of Weakness (1:00)
+(minecraft:lingering_potion)	441
+lingering potion of the turtle master (0:05 - slowness iv, resistance iii)	Lingering Potion of the Turtle Master (0:05 - Slowness IV, Resistance III)
+(minecraft:lingering_potion)	441
+lingering potion of the turtle master (0:05 - slowness vi, resistance iv)	Lingering Potion of the Turtle Master (0:05 - Slowness VI, Resistance IV)
+(minecraft:lingering_potion)	441
+lingering potion of the turtle master (0:10 - slowness iv, resistance iii)	Lingering Potion of the Turtle Master (0:10 - Slowness IV, Resistance III)
+(minecraft:lingering_potion)	441
+llama spawn egg	Llama Spawn Egg
+(minecraft:llama_spawn_egg)
+lodestone	Lodestone
+(minecraft:lodestone)
+loom	Loom
+(minecraft:loom)
+magenta banner	Magenta Banner
+(minecraft:magenta_banner)
+magenta bed	Magenta Bed
+(minecraft:magenta_bed)
+magenta carpet	Magenta Carpet
+(minecraft:magenta_carpet)
+magenta concrete	Magenta Concrete
+(minecraft:magenta_concrete)
+magenta concrete powder	Magenta Concrete Powder
+(minecraft:magenta_concrete_powder)
+magenta dye	Magenta Dye
+(minecraft:magenta_dye)
+magenta glazed terracotta	Magenta Glazed Terracotta
+(minecraft:magenta_glazed_terracotta)	237
+magenta shulker box	Magenta Shulker Box
+(minecraft:magenta_shulker_box)	221
+magenta stained glass	Magenta Stained Glass
+(minecraft:magenta_stained_glass)
+magenta stained glass pane	Magenta Stained Glass Pane
+(minecraft:magenta_stained_glass_pane)
+magenta terracotta	Magenta Terracotta
+(minecraft:magenta_terracotta)
+magenta wool	Magenta Wool
+(minecraft:magenta_wool)
+magma block	Magma Block
+(minecraft:magma_block)	213
+magma cream	Magma Cream
+(minecraft:magma_cream)	378
+magma cube spawn egg	Magma Cube Spawn Egg
+(minecraft:magma_cube_spawn_egg)
+map	Map
+(minecraft:map)	395
+block of melon	Block of Melon
+(minecraft:melon)	103
+melon seeds	Melon Seeds
+(minecraft:melon_seeds)	362
+melon slice	Melon Slice
+(minecraft:melon_slice)	360
+milk	Milk
+(minecraft:milk_bucket)	335
+minecart	Minecart
+(minecraft:minecart)	328
+thing banner pattern	Thing Banner Pattern
+(minecraft:mojang_banner_pattern)
+mooshroom spawn egg	Mooshroom Spawn Egg
+(minecraft:mooshroom_spawn_egg)
+mossy cobblestone	Mossy Cobblestone
+(minecraft:mossy_cobblestone)	48
+mossy cobblestone slab	Mossy Cobblestone Slab
+(minecraft:mossy_cobblestone_slab)
+mossy cobblestone stairs	Mossy Cobblestone Stairs
+(minecraft:mossy_cobblestone_stairs)
+mossy cobblestone wall	Mossy Cobblestone Wall
+(minecraft:mossy_cobblestone_wall)
+mossy stone brick slab	Mossy Stone Brick Slab
+(minecraft:mossy_stone_brick_slab)
+mossy stone brick stairs	Mossy Stone Brick Stairs
+(minecraft:mossy_stone_brick_stairs)
+mossy stone brick wall	Mossy Stone Brick Wall
+(minecraft:mossy_stone_brick_wall)
+mossy stone bricks	Mossy Stone Bricks
+(minecraft:mossy_stone_bricks)
+mule spawn egg	Mule Spawn Egg
+(minecraft:mule_spawn_egg)
+mushroom stem	Mushroom Stem
+(minecraft:mushroom_stem)
+mushroom stew	Mushroom Stew
+(minecraft:mushroom_stew)	282
+music disc (c418 - 11)	Music Disc (C418 - 11)
+(minecraft:music_disc_11)	2266
+music disc (c418 - 13)	Music Disc (C418 - 13)
+(minecraft:music_disc_13)	2256
+music disc (c418 - blocks)	Music Disc (C418 - blocks)
+(minecraft:music_disc_blocks)	2258
+music disc (c418 - cat)	Music Disc (C418 - cat)
+(minecraft:music_disc_cat)	2257
+music disc (c418 - chirp)	Music Disc (C418 - chirp)
+(minecraft:music_disc_chirp)	2259
+music disc (c418 - far)	Music Disc (C418 - far)
+(minecraft:music_disc_far)	2260
+music disc (c418 - mall)	Music Disc (C418 - mall)
+(minecraft:music_disc_mall)	2261
+music disc (c418 - mellohi)	Music Disc (C418 - mellohi)
+(minecraft:music_disc_mellohi)	2262
+music disc (lena raine - pigstep)	Music Disc (Lena Raine - Pigstep)
+(minecraft:music_disc_pigstep)
+music disc (c418 - stal)	Music Disc (C418 - stal)
+(minecraft:music_disc_stal)	2263
+music disc (c418 - strad)	Music Disc (C418 - strad)
+(minecraft:music_disc_strad)	2264
+music disc (c418 - wait)	Music Disc (C418 - wait)
+(minecraft:music_disc_wait)	2267
+music disc (c418 - ward)	Music Disc (C418 - ward)
+(minecraft:music_disc_ward)	2265
+raw mutton	Raw Mutton
+(minecraft:mutton)	423
+mycelium	Mycelium
+(minecraft:mycelium)	110
+name tag	Name Tag
+(minecraft:name_tag)	421
+nautilus shell	Nautilus Shell
+(minecraft:nautilus_shell)
+nether brick	Nether Brick
+(minecraft:nether_brick)	405
+nether brick fence	Nether Brick Fence
+(minecraft:nether_brick_fence)	113
+nether brick slab	Nether Brick Slab
+(minecraft:nether_brick_slab)
+nether brick stairs	Nether Brick Stairs
+(minecraft:nether_brick_stairs)	114
+nether brick wall	Nether Brick Wall
+(minecraft:nether_brick_wall)
+block of nether bricks	Block of Nether Bricks
+(minecraft:nether_bricks)	112
+nether gold ore	Nether Gold Ore
+(minecraft:nether_gold_ore)
+nether quartz ore	Nether Quartz Ore
+(minecraft:nether_quartz_ore)	153
+nether sprouts	Nether Sprouts
+(minecraft:nether_sprouts)
+nether star	Nether Star
+(minecraft:nether_star)	399
+nether wart	Nether Wart
+(minecraft:nether_wart)	372
+nether wart block	Nether Wart Block
+(minecraft:nether_wart_block)	214
+netherite axe	Netherite Axe
+(minecraft:netherite_axe)
+block of netherite	Block of Netherite
+(minecraft:netherite_block)
+netherite boots	Netherite Boots
+(minecraft:netherite_boots)
+netherite chestplate	Netherite Chestplate
+(minecraft:netherite_chestplate)
+netherite helmet	Netherite Helmet
+(minecraft:netherite_helmet)
+netherite hoe	Netherite Hoe
+(minecraft:netherite_hoe)
+netherite ingot	Netherite Ingot
+(minecraft:netherite_ingot)
+netherite leggings	Netherite Leggings
+(minecraft:netherite_leggings)
+netherite pickaxe	Netherite Pickaxe
+(minecraft:netherite_pickaxe)
+netherite scrap	Netherite Scrap
+(minecraft:netherite_scrap)
+netherite shovel	Netherite Shovel
+(minecraft:netherite_shovel)
+netherite sword	Netherite Sword
+(minecraft:netherite_sword)
+netherrack	Netherrack
+(minecraft:netherrack)	87
+note block	Note Block
+(minecraft:note_block)	25
+oak boat	Oak Boat
+(minecraft:oak_boat)	333
+oak button	Oak Button
+(minecraft:oak_button)	143
+oak door	Oak Door
+(minecraft:oak_door)	324
+oak fence	Oak Fence
+(minecraft:oak_fence)	85
+oak fence gate	Oak Fence Gate
+(minecraft:oak_fence_gate)	107
+oak leaves	Oak Leaves
+(minecraft:oak_leaves)
+oak log	Oak Log
+(minecraft:oak_log)
+oak planks	Oak Planks
+(minecraft:oak_planks)
+oak pressure plate	Oak Pressure Plate
+(minecraft:oak_pressure_plate)	72
+oak sapling	Oak Sapling
+(minecraft:oak_sapling)
+oak sign	Oak Sign
+(minecraft:oak_sign)	323
+oak slab	Oak Slab
+(minecraft:oak_slab)
+oak stairs	Oak Stairs
+(minecraft:oak_stairs)	53
+oak trapdoor	Oak Trapdoor
+(minecraft:oak_trapdoor)	96
+oak wood with bark	Oak Wood with Bark
+(minecraft:oak_wood)
+observer	Observer
+(minecraft:observer)	218
+obsidian	Obsidian
+(minecraft:obsidian)	49
+ocelot spawn egg	Ocelot Spawn Egg
+(minecraft:ocelot_spawn_egg)
+orange banner	Orange Banner
+(minecraft:orange_banner)
+orange bed	Orange Bed
+(minecraft:orange_bed)
+orange carpet	Orange Carpet
+(minecraft:orange_carpet)
+orange concrete	Orange Concrete
+(minecraft:orange_concrete)
+orange concrete powder	Orange Concrete Powder
+(minecraft:orange_concrete_powder)
+orange dye	Orange Dye
+(minecraft:orange_dye)
+orange glazed terracotta	Orange Glazed Terracotta
+(minecraft:orange_glazed_terracotta)	236
+orange shulker box	Orange Shulker Box
+(minecraft:orange_shulker_box)	220
+orange stained glass	Orange Stained Glass
+(minecraft:orange_stained_glass)
+orange stained glass pane	Orange Stained Glass Pane
+(minecraft:orange_stained_glass_pane)
+orange terracotta	Orange Terracotta
+(minecraft:orange_terracotta)
+orange tulip	Orange Tulip
+(minecraft:orange_tulip)
+orange wool	Orange Wool
+(minecraft:orange_wool)
+oxeye daisy	Oxeye Daisy
+(minecraft:oxeye_daisy)
+packed ice	Packed Ice
+(minecraft:packed_ice)	174
+painting	Painting
+(minecraft:painting)	321
+panda spawn egg	Panda Spawn Egg
+(minecraft:panda_spawn_egg)
+paper	Paper
+(minecraft:paper)	339
+parrot spawn egg	Parrot Spawn Egg
+(minecraft:parrot_spawn_egg)
+peony	Peony
+(minecraft:peony)
+petrified oak slab	Petrified Oak Slab
+(minecraft:petrified_oak_slab)
+phantom membrane	Phantom Membrane
+(minecraft:phantom_membrane)
+phantom spawn egg	Phantom Spawn Egg
+(minecraft:phantom_spawn_egg)
+pig spawn egg	Pig Spawn Egg
+(minecraft:pig_spawn_egg)
+snout banner pattern	Snout Banner Pattern
+(minecraft:piglin_banner_pattern)
+piglin brute spawn egg	Piglin Brute Spawn Egg
+(minecraft:piglin_brute_spawn_egg)
+piglin spawn egg	Piglin Spawn Egg
+(minecraft:piglin_spawn_egg)
+pillager spawn egg	Pillager Spawn Egg
+(minecraft:pillager_spawn_egg)
+pink banner	Pink Banner
+(minecraft:pink_banner)
+pink bed	Pink Bed
+(minecraft:pink_bed)
+pink carpet	Pink Carpet
+(minecraft:pink_carpet)
+pink concrete	Pink Concrete
+(minecraft:pink_concrete)
+pink concrete powder	Pink Concrete Powder
+(minecraft:pink_concrete_powder)
+pink dye	Pink Dye
+(minecraft:pink_dye)
+pink glazed terracotta	Pink Glazed Terracotta
+(minecraft:pink_glazed_terracotta)	241
+pink shulker box	Pink Shulker Box
+(minecraft:pink_shulker_box)	225
+pink stained glass	Pink Stained Glass
+(minecraft:pink_stained_glass)
+pink stained glass pane	Pink Stained Glass Pane
+(minecraft:pink_stained_glass_pane)
+pink terracotta	Pink Terracotta
+(minecraft:pink_terracotta)
+pink tulip	Pink Tulip
+(minecraft:pink_tulip)
+pink wool	Pink Wool
+(minecraft:pink_wool)
+piston	Piston
+(minecraft:piston)	33
+steve head	Steve Head
+(minecraft:player_head)
+podzol	Podzol
+(minecraft:podzol)
+poisonous potato	Poisonous Potato
+(minecraft:poisonous_potato)	394
+polar bear spawn egg	Polar Bear Spawn Egg
+(minecraft:polar_bear_spawn_egg)
+polished andesite	Polished Andesite
+(minecraft:polished_andesite)
+polished andesite slab	Polished Andesite Slab
+(minecraft:polished_andesite_slab)
+polished andesite stairs	Polished Andesite Stairs
+(minecraft:polished_andesite_stairs)
+polished basalt	Polished Basalt
+(minecraft:polished_basalt)
+polished blackstone	Polished Blackstone
+(minecraft:polished_blackstone)
+polished blackstone brick slab	Polished Blackstone Brick Slab
+(minecraft:polished_blackstone_brick_slab)
+polished blackstone brick stairs	Polished Blackstone Brick Stairs
+(minecraft:polished_blackstone_brick_stairs)
+polished blackstone brick wall	Polished Blackstone Brick Wall
+(minecraft:polished_blackstone_brick_wall)
+polished blackstone bricks	Polished Blackstone Bricks
+(minecraft:polished_blackstone_bricks)
+polished blackstone button	Polished Blackstone Button
+(minecraft:polished_blackstone_button)
+polished blackstone pressure plate	Polished Blackstone Pressure Plate
+(minecraft:polished_blackstone_pressure_plate)
+polished blackstone slab	Polished Blackstone Slab
+(minecraft:polished_blackstone_slab)
+polished blackstone stairs	Polished Blackstone Stairs
+(minecraft:polished_blackstone_stairs)
+polished blackstone wall	Polished Blackstone Wall
+(minecraft:polished_blackstone_wall)
+polished diorite	Polished Diorite
+(minecraft:polished_diorite)
+polished diorite slab	Polished Diorite Slab
+(minecraft:polished_diorite_slab)
+polished diorite stairs	Polished Diorite Stairs
+(minecraft:polished_diorite_stairs)
+polished granite	Polished Granite
+(minecraft:polished_granite)
+polished granite slab	Polished Granite Slab
+(minecraft:polished_granite_slab)
+polished granite stairs	Polished Granite Stairs
+(minecraft:polished_granite_stairs)
+popped chorus fruit	Popped Chorus Fruit
+(minecraft:popped_chorus_fruit)
+poppy	Poppy
+(minecraft:poppy)
+raw porkchop	Raw Porkchop
+(minecraft:porkchop)	319
+potato	Potato
+(minecraft:potato)	392
+potion of fire resistance (3:00)	Potion of Fire Resistance (3:00)
+(minecraft:potion)	373
+potion of fire resistance (8:00)	Potion of Fire Resistance (8:00)
+(minecraft:potion)	373
+potion of harming (instant damage ii)	Potion of Harming (Instant Damage II)
+(minecraft:potion)	373
+potion of harming (instant damage)	Potion of Harming (Instant Damage)
+(minecraft:potion)	373
+potion of healing (instant health ii)	Potion of Healing (Instant Health II)
+(minecraft:potion)	373
+potion of healing (instant health)	Potion of Healing (Instant Health)
+(minecraft:potion)	373
+potion of invisibility (3:00)	Potion of Invisibility (3:00)
+(minecraft:potion)	373
+potion of invisibility (8:00)	Potion of Invisibility (8:00)
+(minecraft:potion)	373
+potion of leaping (1:30 - jump boost ii)	Potion of Leaping (1:30 - Jump Boost II)
+(minecraft:potion)	373
+potion of leaping (3:00 - jump boost)	Potion of Leaping (3:00 - Jump Boost)
+(minecraft:potion)	373
+potion of leaping (8:00 - jump boost)	Potion of Leaping (8:00 - Jump Boost)
+(minecraft:potion)	373
+potion of luck (5:00)	Potion of Luck (5:00)
+(minecraft:potion)	373
+potion of night vision (3:00)	Potion of Night Vision (3:00)
+(minecraft:potion)	373
+potion of night vision (8:00)	Potion of Night Vision (8:00)
+(minecraft:potion)	373
+potion of poison (0:22 - poison ii)	Potion of Poison (0:22 - Poison II)
+(minecraft:potion)	373
+potion of poison (0:45)	Potion of Poison (0:45)
+(minecraft:potion)	373
+potion of poison (2:00)	Potion of Poison (2:00)
+(minecraft:potion)	373
+potion of regeneration (0:22 - regeneration ii)	Potion of Regeneration (0:22 - Regeneration II)
+(minecraft:potion)	373
+potion of regeneration (0:45)	Potion of Regeneration (0:45)
+(minecraft:potion)	373
+potion of regeneration (1:30)	Potion of Regeneration (1:30)
+(minecraft:potion)	373
+potion of slow falling (1:30)	Potion of Slow Falling (1:30)
+(minecraft:potion)	373
+potion of slow falling (4:00)	Potion of Slow Falling (4:00)
+(minecraft:potion)	373
+potion of slowness (0:10 - slowness v)	Potion of Slowness (0:10 - Slowness V)
+(minecraft:potion)	373
+potion of slowness (1:30)	Potion of Slowness (1:30)
+(minecraft:potion)	373
+potion of slowness (4:00)	Potion of Slowness (4:00)
+(minecraft:potion)	373
+potion of strength (1:30 - strength ii)	Potion of Strength (1:30 - Strength II)
+(minecraft:potion)	373
+potion of strength (3:00)	Potion of Strength (3:00)
+(minecraft:potion)	373
+potion of strength (8:00)	Potion of Strength (8:00)
+(minecraft:potion)	373
+potion of swiftness (1:30 - speed ii)	Potion of Swiftness (1:30 - Speed II)
+(minecraft:potion)	373
+potion of swiftness (3:00 - speed)	Potion of Swiftness (3:00 - Speed)
+(minecraft:potion)	373
+potion of swiftness (8:00 - speed)	Potion of Swiftness (8:00 - Speed)
+(minecraft:potion)	373
+potion of water breathing (3:00)	Potion of Water Breathing (3:00)
+(minecraft:potion)	373
+potion of water breathing (8:00)	Potion of Water Breathing (8:00)
+(minecraft:potion)	373
+potion of weakness (1:30)	Potion of Weakness (1:30)
+(minecraft:potion)	373
+potion of weakness (4:00)	Potion of Weakness (4:00)
+(minecraft:potion)	373
+potion of the turtle master (0:20 - slowness iv, resistance iii)	Potion of the Turtle Master (0:20 - Slowness IV, Resistance III)
+(minecraft:potion)	373
+potion of the turtle master (0:20 - slowness vi, resistance iv)	Potion of the Turtle Master (0:20 - Slowness VI, Resistance IV)
+(minecraft:potion)	373
+potion of the turtle master (0:40 - slowness iv, resistance iii)	Potion of the Turtle Master (0:40 - Slowness IV, Resistance III)
+(minecraft:potion)	373
+water bottle	Water Bottle
+(minecraft:potion)	373
+powered rails	Powered Rails
+(minecraft:powered_rail)	27
+prismarine	Prismarine
+(minecraft:prismarine)	168
+prismarine brick slab	Prismarine Brick Slab
+(minecraft:prismarine_brick_slab)
+prismarine bricks stairs	Prismarine Bricks Stairs
+(minecraft:prismarine_brick_stairs)
+prismarine bricks	Prismarine Bricks
+(minecraft:prismarine_bricks)
+prismarine crystals	Prismarine Crystals
+(minecraft:prismarine_crystals)	410
+prismarine shard	Prismarine Shard
+(minecraft:prismarine_shard)	409
+prismarine slab	Prismarine Slab
+(minecraft:prismarine_slab)
+prismarine stairs	Prismarine Stairs
+(minecraft:prismarine_stairs)
+prismarine wall	Prismarine Wall
+(minecraft:prismarine_wall)
+pufferfish	Pufferfish
+(minecraft:pufferfish)
+bucket of pufferfish	Bucket of Pufferfish
+(minecraft:pufferfish_bucket)
+pufferfish spawn egg	Pufferfish Spawn Egg
+(minecraft:pufferfish_spawn_egg)
+pumpkin	Pumpkin
+(minecraft:pumpkin)	86
+pumpkin pie	Pumpkin Pie
+(minecraft:pumpkin_pie)	400
+pumpkin seeds	Pumpkin Seeds
+(minecraft:pumpkin_seeds)	361
+purple banner	Purple Banner
+(minecraft:purple_banner)
+purple bed	Purple Bed
+(minecraft:purple_bed)
+purple carpet	Purple Carpet
+(minecraft:purple_carpet)
+purple concrete	Purple Concrete
+(minecraft:purple_concrete)
+purple concrete powder	Purple Concrete Powder
+(minecraft:purple_concrete_powder)
+purple dye	Purple Dye
+(minecraft:purple_dye)
+purple glazed terracotta	Purple Glazed Terracotta
+(minecraft:purple_glazed_terracotta)	245
+purple shulker box	Purple Shulker Box
+(minecraft:purple_shulker_box)	229
+purple stained glass	Purple Stained Glass
+(minecraft:purple_stained_glass)
+purple stained glass pane	Purple Stained Glass Pane
+(minecraft:purple_stained_glass_pane)
+purple terracotta	Purple Terracotta
+(minecraft:purple_terracotta)
+purple wool	Purple Wool
+(minecraft:purple_wool)
+purpur block	Purpur Block
+(minecraft:purpur_block)	201
+purpur pillar	Purpur Pillar
+(minecraft:purpur_pillar)	202
+purpur slab	Purpur Slab
+(minecraft:purpur_slab)	205
+purpur stairs	Purpur Stairs
+(minecraft:purpur_stairs)	203
+nether quartz	Nether Quartz
+(minecraft:quartz)	406
+block of quartz	Block of Quartz
+(minecraft:quartz_block)	155
+quartz bricks	Quartz Bricks
+(minecraft:quartz_bricks)
+quartz pillar	Quartz Pillar
+(minecraft:quartz_pillar)
+quartz slab	Quartz Slab
+(minecraft:quartz_slab)
+quartz stairs	Quartz Stairs
+(minecraft:quartz_stairs)	156
+raw rabbit	Raw Rabbit
+(minecraft:rabbit)	411
+rabbit's foot	Rabbit's Foot
+(minecraft:rabbit_foot)	414
+rabbit hide	Rabbit Hide
+(minecraft:rabbit_hide)	415
+rabbit spawn egg	Rabbit Spawn Egg
+(minecraft:rabbit_spawn_egg)
+rabbit stew	Rabbit Stew
+(minecraft:rabbit_stew)	413
+rails	Rails
+(minecraft:rail)	66
+ravager spawn egg	Ravager Spawn Egg
+(minecraft:ravager_spawn_egg)
+red banner	Red Banner
+(minecraft:red_banner)
+red bed	Red Bed
+(minecraft:red_bed)
+red carpet	Red Carpet
+(minecraft:red_carpet)
+red concrete	Red Concrete
+(minecraft:red_concrete)
+red concrete powder	Red Concrete Powder
+(minecraft:red_concrete_powder)
+red dye	Red Dye
+(minecraft:red_dye)
+red glazed terracotta	Red Glazed Terracotta
+(minecraft:red_glazed_terracotta)	249
+mushroom (red with white spots)	Mushroom (red with white spots)
+(minecraft:red_mushroom)	40
+red mushroom block	Red Mushroom Block
+(minecraft:red_mushroom_block)	100
+red nether brick slab	Red Nether Brick Slab
+(minecraft:red_nether_brick_slab)
+red nether brick stairs	Red Nether Brick Stairs
+(minecraft:red_nether_brick_stairs)
+red nether brick wall	Red Nether Brick Wall
+(minecraft:red_nether_brick_wall)
+red nether brick	Red Nether Brick
+(minecraft:red_nether_bricks)	215
+red sand	Red Sand
+(minecraft:red_sand)
+red sandstone	Red Sandstone
+(minecraft:red_sandstone)	179
+red sandstone slab	Red Sandstone Slab
+(minecraft:red_sandstone_slab)
+red sandstone stairs	Red Sandstone Stairs
+(minecraft:red_sandstone_stairs)	180
+red sandstone wall	Red Sandstone Wall
+(minecraft:red_sandstone_wall)
+red shulker box	Red Shulker Box
+(minecraft:red_shulker_box)	233
+red stained glass	Red Stained Glass
+(minecraft:red_stained_glass)
+red stained glass pane	Red Stained Glass Pane
+(minecraft:red_stained_glass_pane)
+red terracotta	Red Terracotta
+(minecraft:red_terracotta)
+red tulip	Red Tulip
+(minecraft:red_tulip)
+red wool	Red Wool
+(minecraft:red_wool)
+redstone dust	Redstone Dust
+(minecraft:redstone)	331
+block of redstone	Block of Redstone
+(minecraft:redstone_block)	152
+redstone lamp	Redstone Lamp
+(minecraft:redstone_lamp)	123
+redstone ore	Redstone Ore
+(minecraft:redstone_ore)	73
+redstone torch	Redstone Torch
+(minecraft:redstone_torch)	76
+redstone repeater	Redstone Repeater
+(minecraft:repeater)	356
+repeating command block	Repeating Command Block
+(minecraft:repeating_command_block)	210
+respawn anchor	Respawn Anchor
+(minecraft:respawn_anchor)
+rose bush	Rose Bush
+(minecraft:rose_bush)
+rotten flesh	Rotten Flesh
+(minecraft:rotten_flesh)	367
+saddle	Saddle
+(minecraft:saddle)	329
+raw salmon	Raw Salmon
+(minecraft:salmon)
+bucket of salmon	Bucket of Salmon
+(minecraft:salmon_bucket)
+salmon spawn egg	Salmon Spawn Egg
+(minecraft:salmon_spawn_egg)
+sand	Sand
+(minecraft:sand)
+sandstone	Sandstone
+(minecraft:sandstone)	24
+sandstone slab	Sandstone Slab
+(minecraft:sandstone_slab)
+sandstone stairs	Sandstone Stairs
+(minecraft:sandstone_stairs)	128
+sandstone wall	Sandstone Wall
+(minecraft:sandstone_wall)
+scaffolding	Scaffolding
+(minecraft:scaffolding)
+scute	Scute
+(minecraft:scute)
+sea lantern	Sea Lantern
+(minecraft:sea_lantern)	169
+sea pickle	Sea Pickle
+(minecraft:sea_pickle)
+seagrass	Seagrass
+(minecraft:seagrass)
+shears	Shears
+(minecraft:shears)	359
+sheep spawn egg	Sheep Spawn Egg
+(minecraft:sheep_spawn_egg)
+shield	Shield
+(minecraft:shield)	442
+shroomlight	Shroomlight
+(minecraft:shroomlight)
+shulker box	Shulker Box
+(minecraft:shulker_box)
+shulker shell	Shulker Shell
+(minecraft:shulker_shell)	450
+shulker spawn egg	Shulker Spawn Egg
+(minecraft:shulker_spawn_egg)
+silverfish spawn egg	Silverfish Spawn Egg
+(minecraft:silverfish_spawn_egg)
+skeleton horse spawn egg	Skeleton Horse Spawn Egg
+(minecraft:skeleton_horse_spawn_egg)
+skeleton skull	Skeleton Skull
+(minecraft:skeleton_skull)
+skeleton spawn egg	Skeleton Spawn Egg
+(minecraft:skeleton_spawn_egg)
+skull charge banner pattern	Skull Charge Banner Pattern
+(minecraft:skull_banner_pattern)
+slimeball	Slimeball
+(minecraft:slime_ball)	341
+slime block	Slime Block
+(minecraft:slime_block)	165
+slime spawn egg	Slime Spawn Egg
+(minecraft:slime_spawn_egg)
+smithing table	Smithing Table
+(minecraft:smithing_table)
+smoker	Smoker
+(minecraft:smoker)
+smooth quartz	Smooth Quartz
+(minecraft:smooth_quartz)
+smooth quartz slab	Smooth Quartz Slab
+(minecraft:smooth_quartz_slab)
+smooth quartz stairs	Smooth Quartz Stairs
+(minecraft:smooth_quartz_stairs)
+smooth red sandstone	Smooth Red Sandstone
+(minecraft:smooth_red_sandstone)
+smooth red sandstone slab	Smooth Red Sandstone Slab
+(minecraft:smooth_red_sandstone_slab)
+smooth red sandstone stairs	Smooth Red Sandstone Stairs
+(minecraft:smooth_red_sandstone_stairs)
+smooth sandstone	Smooth Sandstone
+(minecraft:smooth_sandstone)
+smooth sandstone slab	Smooth Sandstone Slab
+(minecraft:smooth_sandstone_slab)
+smooth sandstone stairs	Smooth Sandstone Stairs
+(minecraft:smooth_sandstone_stairs)
+smooth stone	Smooth Stone
+(minecraft:smooth_stone)
+smooth stone slab	Smooth Stone Slab
+(minecraft:smooth_stone_slab)
+snow	Snow
+(minecraft:snow)
+snow block	Snow Block
+(minecraft:snow_block)	80
+snowball	Snowball
+(minecraft:snowball)	332
+soul campfire	Soul Campfire
+(minecraft:soul_campfire)
+soul lantern	Soul Lantern
+(minecraft:soul_lantern)
+soul sand	Soul Sand
+(minecraft:soul_sand)	88
+soul soil	Soul Soil
+(minecraft:soul_soil)
+soul torch	Soul Torch
+(minecraft:soul_torch)
+monster spawner	Monster Spawner
+(minecraft:spawner)
+spectral arrow	Spectral Arrow
+(minecraft:spectral_arrow)	439
+spider eye	Spider Eye
+(minecraft:spider_eye)	375
+spider spawn egg	Spider Spawn Egg
+(minecraft:spider_spawn_egg)
+splash potion of fire resistance (3:00/2:15)	Splash Potion of Fire Resistance (3:00/2:15)
+(minecraft:splash_potion)	438
+splash potion of fire resistance (6:00)	Splash Potion of Fire Resistance (6:00)
+(minecraft:splash_potion)	438
+splash potion of harming (instant damage ii)	Splash Potion of Harming (Instant Damage II)
+(minecraft:splash_potion)	438
+splash potion of harming (instant damage)	Splash Potion of Harming (Instant Damage)
+(minecraft:splash_potion)	438
+splash potion of healing (instant health ii)	Splash Potion of Healing (Instant Health II)
+(minecraft:splash_potion)	438
+splash potion of healing (instant health)	Splash Potion of Healing (Instant Health)
+(minecraft:splash_potion)	438
+splash potion of invisibility (3:00/2:15)	Splash Potion of Invisibility (3:00/2:15)
+(minecraft:splash_potion)	438
+splash potion of invisibility (8:00/6:00)	Splash Potion of Invisibility (8:00/6:00)
+(minecraft:splash_potion)	438
+splash potion of leaping (1:30/1:07 - jump boost ii)	Splash Potion of Leaping (1:30/1:07 - Jump Boost II)
+(minecraft:splash_potion)	438
+splash potion of leaping (3:00/2:15 - jump boost)	Splash Potion of Leaping (3:00/2:15 - Jump Boost)
+(minecraft:splash_potion)	438
+splash potion of leaping (8:00/6:00 - jump boost)	Splash Potion of Leaping (8:00/6:00 - Jump Boost)
+(minecraft:splash_potion)	438
+splash potion of luck (5:00)	Splash Potion of Luck (5:00)
+(minecraft:splash_potion)	438
+splash potion of night vision (3:00/2:15)	Splash Potion of Night Vision (3:00/2:15)
+(minecraft:splash_potion)	438
+splash potion of night vision (8:00/6:00)	Splash Potion of Night Vision (8:00/6:00)
+(minecraft:splash_potion)	438
+splash potion of poison (0:22/0:16 - poison ii)	Splash Potion of Poison (0:22/0:16 - Poison II)
+(minecraft:splash_potion)	438
+splash potion of poison (0:45/0:33)	Splash Potion of Poison (0:45/0:33)
+(minecraft:splash_potion)	438
+splash potion of poison (1:30)	Splash Potion of Poison (1:30)
+(minecraft:splash_potion)	438
+splash potion of regeneration (0:22/0:16 - regeneration ii)	Splash Potion of Regeneration (0:22/0:16 - Regeneration II)
+(minecraft:splash_potion)	438
+splash potion of regeneration (0:45/0:33)	Splash Potion of Regeneration (0:45/0:33)
+(minecraft:splash_potion)	438
+splash potion of regeneration (1:30)	Splash Potion of Regeneration (1:30)
+(minecraft:splash_potion)	438
+splash potion of slow falling (1:30)	Splash Potion of Slow Falling (1:30)
+(minecraft:splash_potion)	438
+splash potion of slow falling (4:00)	Splash Potion of Slow Falling (4:00)
+(minecraft:splash_potion)	438
+splash potion of slowness (0:10 - slowness v)	Splash Potion of Slowness (0:10 - Slowness V)
+(minecraft:splash_potion)	438
+splash potion of slowness (1:30/1:07)	Splash Potion of Slowness (1:30/1:07)
+(minecraft:splash_potion)	438
+splash potion of slowness (4:00/3:00)	Splash Potion of Slowness (4:00/3:00)
+(minecraft:splash_potion)	438
+splash potion of strength (1:30/1:07 - strength ii)	Splash Potion of Strength (1:30/1:07 - Strength II)
+(minecraft:splash_potion)	438
+splash potion of strength (3:00/2:15)	Splash Potion of Strength (3:00/2:15)
+(minecraft:splash_potion)	438
+splash potion of strength (8:00/6:00)	Splash Potion of Strength (8:00/6:00)
+(minecraft:splash_potion)	438
+splash potion of swiftness (1:30/1:07 - speed ii)	Splash Potion of Swiftness (1:30/1:07 - Speed II)
+(minecraft:splash_potion)	438
+splash potion of swiftness (3:00/2:15 - speed)	Splash Potion of Swiftness (3:00/2:15 - Speed)
+(minecraft:splash_potion)	438
+splash potion of swiftness (8:00/6:00 - speed)	Splash Potion of Swiftness (8:00/6:00 - Speed)
+(minecraft:splash_potion)	438
+splash potion of water breathing (3:00/2:15)	Splash Potion of Water Breathing (3:00/2:15)
+(minecraft:splash_potion)	438
+splash potion of water breathing (8:00/6:00)	Splash Potion of Water Breathing (8:00/6:00)
+(minecraft:splash_potion)	438
+splash potion of weakness (1:30/1:07)	Splash Potion of Weakness (1:30/1:07)
+(minecraft:splash_potion)	438
+splash potion of weakness (4:00/3:00)	Splash Potion of Weakness (4:00/3:00)
+(minecraft:splash_potion)	438
+splash potion of the turtle master (0:15 - slowness iv, resistance iii)	Splash Potion of the Turtle Master (0:15 - Slowness IV, Resistance III)
+(minecraft:splash_potion)	438
+splash potion of the turtle master (0:15 - slowness vi, resistance iv)	Splash Potion of the Turtle Master (0:15 - Slowness VI, Resistance IV)
+(minecraft:splash_potion)	438
+splash potion of the turtle master (0:30 - slowness iv, resistance iii)	Splash Potion of the Turtle Master (0:30 - Slowness IV, Resistance III)
+(minecraft:splash_potion)	438
+sponge	Sponge
+(minecraft:sponge)	19
+spruce boat	Spruce Boat
+(minecraft:spruce_boat)	444
+spruce button	Spruce Button
+(minecraft:spruce_button)
+spruce door	Spruce Door
+(minecraft:spruce_door)	427
+spruce fence	Spruce Fence
+(minecraft:spruce_fence)	188
+spruce fence gate	Spruce Fence Gate
+(minecraft:spruce_fence_gate)	183
+spruce leaves	Spruce Leaves
+(minecraft:spruce_leaves)
+spruce log	Spruce Log
+(minecraft:spruce_log)
+spruce planks	Spruce Planks
+(minecraft:spruce_planks)
+spruce pressure plate	Spruce Pressure Plate
+(minecraft:spruce_pressure_plate)
+spruce sapling	Spruce Sapling
+(minecraft:spruce_sapling)
+spruce sign	Spruce Sign
+(minecraft:spruce_sign)
+spruce slab	Spruce Slab
+(minecraft:spruce_slab)
+spruce stairs	Spruce Stairs
+(minecraft:spruce_stairs)	134
+spruce trapdoor	Spruce Trapdoor
+(minecraft:spruce_trapdoor)
+spruce wood with bark	Spruce Wood with Bark
+(minecraft:spruce_wood)
+squid spawn egg	Squid Spawn Egg
+(minecraft:squid_spawn_egg)
+stick	Stick
+(minecraft:stick)	280
+sticky piston	Sticky Piston
+(minecraft:sticky_piston)	29
+stone	Stone
+(minecraft:stone)	1
+stone axe	Stone Axe
+(minecraft:stone_axe)	275
+stone brick slab	Stone Brick Slab
+(minecraft:stone_brick_slab)
+stone brick stairs	Stone Brick Stairs
+(minecraft:stone_brick_stairs)	109
+stone brick wall	Stone Brick Wall
+(minecraft:stone_brick_wall)
+stone bricks	Stone Bricks
+(minecraft:stone_bricks)
+stone button	Stone Button
+(minecraft:stone_button)	77
+stone hoe	Stone Hoe
+(minecraft:stone_hoe)	291
+stone pickaxe	Stone Pickaxe
+(minecraft:stone_pickaxe)	274
+stone pressure plate	Stone Pressure Plate
+(minecraft:stone_pressure_plate)	70
+stone shovel	Stone Shovel
+(minecraft:stone_shovel)	273
+stone slab	Stone Slab
+(minecraft:stone_slab)
+stone stairs	Stone Stairs
+(minecraft:stone_stairs)
+stone sword	Stone Sword
+(minecraft:stone_sword)	272
+stonecutter	Stonecutter
+(minecraft:stonecutter)
+stray spawn egg	Stray Spawn Egg
+(minecraft:stray_spawn_egg)
+strider spawn egg	Strider Spawn Egg
+(minecraft:strider_spawn_egg)
+string	String
+(minecraft:string)	287
+stripped acacia log	Stripped Acacia Log
+(minecraft:stripped_acacia_log)
+stripped acacia wood	Stripped Acacia Wood
+(minecraft:stripped_acacia_wood)
+stripped birch log	Stripped Birch Log
+(minecraft:stripped_birch_log)
+stripped birch wood	Stripped Birch Wood
+(minecraft:stripped_birch_wood)
+stripped crimson hyphae	Stripped Crimson Hyphae
+(minecraft:stripped_crimson_hyphae)
+stripped crimson stem	Stripped Crimson Stem
+(minecraft:stripped_crimson_stem)
+stripped dark oak log	Stripped Dark Oak Log
+(minecraft:stripped_dark_oak_log)
+stripped dark oak wood	Stripped Dark Oak Wood
+(minecraft:stripped_dark_oak_wood)
+stripped jungle log	Stripped Jungle Log
+(minecraft:stripped_jungle_log)
+stripped jungle wood	Stripped Jungle Wood
+(minecraft:stripped_jungle_wood)
+stripped oak log	Stripped Oak Log
+(minecraft:stripped_oak_log)
+stripped oak wood	Stripped Oak Wood
+(minecraft:stripped_oak_wood)
+stripped spruce log	Stripped Spruce Log
+(minecraft:stripped_spruce_log)
+stripped spruce wood	Stripped Spruce Wood
+(minecraft:stripped_spruce_wood)
+stripped warped hyphae	Stripped Warped Hyphae
+(minecraft:stripped_warped_hyphae)
+stripped warped stem	Stripped Warped Stem
+(minecraft:stripped_warped_stem)
+structure block	Structure Block
+(minecraft:structure_block)	255
+structure void	Structure Void
+(minecraft:structure_void)	217
+sugar	Sugar
+(minecraft:sugar)	353
+sugar canes	Sugar Canes
+(minecraft:sugar_cane)	338
+sunflower	Sunflower
+(minecraft:sunflower)
+suspicious stew	Suspicious Stew
+(minecraft:suspicious_stew)
+sweet berries	Sweet Berries
+(minecraft:sweet_berries)
+tall grass	Tall Grass
+(minecraft:tall_grass)
+target	Target
+(minecraft:target)
+terracotta	Terracotta
+(minecraft:terracotta)	172
+arrow of fire resistance (0:22)	Arrow of Fire Resistance (0:22)
+(minecraft:tipped_arrow)	440
+arrow of fire resistance (1:00)	Arrow of Fire Resistance (1:00)
+(minecraft:tipped_arrow)	440
+arrow of harming (instant damage ii)	Arrow of Harming (Instant Damage II)
+(minecraft:tipped_arrow)	440
+arrow of harming (instant damage)	Arrow of Harming (Instant Damage)
+(minecraft:tipped_arrow)	440
+arrow of healing (instant health ii)	Arrow of Healing (Instant Health II)
+(minecraft:tipped_arrow)	440
+arrow of healing (instant health)	Arrow of Healing (Instant Health)
+(minecraft:tipped_arrow)	440
+arrow of invisibility (0:22)	Arrow of Invisibility (0:22)
+(minecraft:tipped_arrow)	440
+arrow of invisibility (1:00)	Arrow of Invisibility (1:00)
+(minecraft:tipped_arrow)	440
+arrow of leaping (0:11 - jump boost ii)	Arrow of Leaping (0:11 - Jump Boost II)
+(minecraft:tipped_arrow)	440
+arrow of leaping (0:22 - jump boost)	Arrow of Leaping (0:22 - Jump Boost)
+(minecraft:tipped_arrow)	440
+arrow of leaping (1:00 - jump boost)	Arrow of Leaping (1:00 - Jump Boost)
+(minecraft:tipped_arrow)	440
+arrow of luck (0:37)	Arrow of Luck (0:37)
+(minecraft:tipped_arrow)	440
+arrow of night vision (0:22)	Arrow of Night Vision (0:22)
+(minecraft:tipped_arrow)	440
+arrow of night vision (1:00)	Arrow of Night Vision (1:00)
+(minecraft:tipped_arrow)	440
+arrow of poison (0:02 - poison ii)	Arrow of Poison (0:02 - Poison II)
+(minecraft:tipped_arrow)	440
+arrow of poison (0:05)	Arrow of Poison (0:05)
+(minecraft:tipped_arrow)	440
+arrow of poison (0:11)	Arrow of Poison (0:11)
+(minecraft:tipped_arrow)	440
+arrow of regeneration (0:02 - regeneration ii)	Arrow of Regeneration (0:02 - Regeneration II)
+(minecraft:tipped_arrow)	440
+arrow of regeneration (0:05)	Arrow of Regeneration (0:05)
+(minecraft:tipped_arrow)	440
+arrow of regeneration (0:11)	Arrow of Regeneration (0:11)
+(minecraft:tipped_arrow)	440
+arrow of slow falling (0:11)	Arrow of Slow Falling (0:11)
+(minecraft:tipped_arrow)	400
+arrow of slow falling (0:30)	Arrow of Slow Falling (0:30)
+(minecraft:tipped_arrow)	400
+arrow of slowness (0:01 - slowness v)	Arrow of Slowness (0:01 - Slowness V)
+(minecraft:tipped_arrow)	440
+arrow of slowness (0:11)	Arrow of Slowness (0:11)
+(minecraft:tipped_arrow)	440
+arrow of slowness (0:30)	Arrow of Slowness (0:30)
+(minecraft:tipped_arrow)	440
+arrow of strength (0:11 - strength ii)	Arrow of Strength (0:11 - Strength II)
+(minecraft:tipped_arrow)	440
+arrow of strength (0:22)	Arrow of Strength (0:22)
+(minecraft:tipped_arrow)	440
+arrow of strength (1:00)	Arrow of Strength (1:00)
+(minecraft:tipped_arrow)	440
+arrow of swiftness (0:11 - speed ii)	Arrow of Swiftness (0:11 - Speed II)
+(minecraft:tipped_arrow)	440
+arrow of swiftness (0:22 - speed)	Arrow of Swiftness (0:22 - Speed)
+(minecraft:tipped_arrow)	440
+arrow of swiftness (1:00 - speed)	Arrow of Swiftness (1:00 - Speed)
+(minecraft:tipped_arrow)	440
+arrow of water breathing (0:22)	Arrow of Water Breathing (0:22)
+(minecraft:tipped_arrow)	440
+arrow of water breathing (1:00)	Arrow of Water Breathing (1:00)
+(minecraft:tipped_arrow)	440
+arrow of weakness (0:11)	Arrow of Weakness (0:11)
+(minecraft:tipped_arrow)	440
+arrow of weakness (0:30)	Arrow of Weakness (0:30)
+(minecraft:tipped_arrow)	440
+arrow of the turtle master (0:02 - slowness iv, resistance iii)	Arrow of the Turtle Master (0:02 - Slowness IV, Resistance III)
+(minecraft:tipped_arrow)	440
+arrow of the turtle master (0:02 - slowness vi, resistance iv)	Arrow of the Turtle Master (0:02 - Slowness VI, Resistance IV)
+(minecraft:tipped_arrow)	440
+arrow of the turtle master (0:05 - slowness iv, resistance iii)	Arrow of the Turtle Master (0:05 - Slowness IV, Resistance III)
+(minecraft:tipped_arrow)	440
+tnt	TNT
+(minecraft:tnt)	46
+minecart with tnt	Minecart with TNT
+(minecraft:tnt_minecart)	407
+torch	Torch
+(minecraft:torch)	50
+totem of undying	Totem of Undying
+(minecraft:totem_of_undying)	449
+trader llama spawn egg	Trader Llama Spawn Egg
+(minecraft:trader_llama_spawn_egg)
+trapped chest	Trapped Chest
+(minecraft:trapped_chest)	146
+trident	Trident
+(minecraft:trident)
+tripwire hook	Tripwire Hook
+(minecraft:tripwire_hook)	131
+tropical fish (clownfish)	Tropical Fish (Clownfish)
+(minecraft:tropical_fish)
+bucket of tropical fish	Bucket of Tropical Fish
+(minecraft:tropical_fish_bucket)
+tropical fish spawn egg	Tropical Fish Spawn Egg
+(minecraft:tropical_fish_spawn_egg)
+tube coral	Tube Coral
+(minecraft:tube_coral)
+tube coral block	Tube Coral Block
+(minecraft:tube_coral_block)
+tube coral fan	Tube Coral Fan
+(minecraft:tube_coral_fan)
+turtle egg	Turtle Egg
+(minecraft:turtle_egg)
+turtle shell	Turtle Shell
+(minecraft:turtle_helmet)
+turtle spawn egg	Turtle Spawn Egg
+(minecraft:turtle_spawn_egg)
+twisting vines	Twisting Vines
+(minecraft:twisting_vines)
+vex spawn egg	Vex Spawn Egg
+(minecraft:vex_spawn_egg)
+villager spawn egg	Villager Spawn Egg
+(minecraft:villager_spawn_egg)
+vindicator spawn egg	Vindicator Spawn Egg
+(minecraft:vindicator_spawn_egg)
+vines	Vines
+(minecraft:vine)	106
+wandering trader spawn egg	Wandering Trader Spawn Egg
+(minecraft:wandering_trader_spawn_egg)
+warped button	Warped Button
+(minecraft:warped_button)
+warped door	Warped Door
+(minecraft:warped_door)
+warped fence	Warped Fence
+(minecraft:warped_fence)
+warped fence gate	Warped Fence Gate
+(minecraft:warped_fence_gate)
+warped fungus	Warped Fungus
+(minecraft:warped_fungus)
+warped fungus on a stick	Warped Fungus on a Stick
+(minecraft:warped_fungus_on_a_stick)
+warped hyphae	Warped Hyphae
+(minecraft:warped_hyphae)
+warped nylium	Warped Nylium
+(minecraft:warped_nylium)
+warped planks	Warped Planks
+(minecraft:warped_planks)
+warped pressure plate	Warped Pressure Plate
+(minecraft:warped_pressure_plate)
+warped roots	Warped Roots
+(minecraft:warped_roots)
+warped sign	Warped Sign
+(minecraft:warped_sign)
+warped slab	Warped Slab
+(minecraft:warped_slab)
+warped stairs	Warped Stairs
+(minecraft:warped_stairs)
+warped stem	Warped Stem
+(minecraft:warped_stem)
+warped trapdoor	Warped Trapdoor
+(minecraft:warped_trapdoor)
+warped wart block	Warped Wart Block
+(minecraft:warped_wart_block)
+water	Water
+(minecraft:water)
+water bucket	Water Bucket
+(minecraft:water_bucket)	326
+weeping vines	Weeping Vines
+(minecraft:weeping_vines)
+wet sponge	Wet Sponge
+(minecraft:wet_sponge)
+wheat	Wheat
+(minecraft:wheat)	296
+seeds	Seeds
+(minecraft:wheat_seeds)	295
+white banner	White Banner
+(minecraft:white_banner)
+white bed	White Bed
+(minecraft:white_bed)
+white carpet	White Carpet
+(minecraft:white_carpet)
+white concrete	White Concrete
+(minecraft:white_concrete)
+white concrete powder	White Concrete Powder
+(minecraft:white_concrete_powder)
+white dye	White Dye
+(minecraft:white_dye)
+white glazed terracotta	White Glazed Terracotta
+(minecraft:white_glazed_terracotta)	235
+white shulker box	White Shulker Box
+(minecraft:white_shulker_box)	219
+white stained glass	White Stained Glass
+(minecraft:white_stained_glass)
+white stained glass pane	White Stained Glass Pane
+(minecraft:white_stained_glass_pane)
+white terracotta	White Terracotta
+(minecraft:white_terracotta)
+white tulip	White Tulip
+(minecraft:white_tulip)
+white wool	White Wool
+(minecraft:white_wool)
+witch spawn egg	Witch Spawn Egg
+(minecraft:witch_spawn_egg)
+wither rose	Wither Rose
+(minecraft:wither_rose)
+wither skeleton skull	Wither Skeleton Skull
+(minecraft:wither_skeleton_skull)
+wither skeleton spawn egg	Wither Skeleton Spawn Egg
+(minecraft:wither_skeleton_spawn_egg)
+wolf spawn egg	Wolf Spawn Egg
+(minecraft:wolf_spawn_egg)
+wooden axe	Wooden Axe
+(minecraft:wooden_axe)	271
+wooden hoe	Wooden Hoe
+(minecraft:wooden_hoe)	290
+wooden pickaxe	Wooden Pickaxe
+(minecraft:wooden_pickaxe)	270
+wooden shovel	Wooden Shovel
+(minecraft:wooden_shovel)	269
+wooden sword	Wooden Sword
+(minecraft:wooden_sword)	268
+book and quill	Book and Quill
+(minecraft:writable_book)	386
+written book	Written Book
+(minecraft:written_book)	387
+yellow banner	Yellow Banner
+(minecraft:yellow_banner)
+yellow bed	Yellow Bed
+(minecraft:yellow_bed)
+yellow carpet	Yellow Carpet
+(minecraft:yellow_carpet)
+yellow concrete	Yellow Concrete
+(minecraft:yellow_concrete)
+yellow concrete powder	Yellow Concrete Powder
+(minecraft:yellow_concrete_powder)
+yellow dye	Yellow Dye
+(minecraft:yellow_dye)
+yellow glazed terracotta	Yellow Glazed Terracotta
+(minecraft:yellow_glazed_terracotta)	239
+yellow shulker box	Yellow Shulker Box
+(minecraft:yellow_shulker_box)	223
+yellow stained glass	Yellow Stained Glass
+(minecraft:yellow_stained_glass)
+yellow stained glass pane	Yellow Stained Glass Pane
+(minecraft:yellow_stained_glass_pane)
+yellow terracotta	Yellow Terracotta
+(minecraft:yellow_terracotta)
+yellow wool	Yellow Wool
+(minecraft:yellow_wool)
+zoglin spawn egg	Zoglin Spawn Egg
+(minecraft:zoglin_spawn_egg)
+zombie head	Zombie Head
+(minecraft:zombie_head)
+zombie horse spawn egg	Zombie Horse Spawn Egg
+(minecraft:zombie_horse_spawn_egg)
+zombie spawn egg	Zombie Spawn Egg
+(minecraft:zombie_spawn_egg)
+zombie villager spawn egg	Zombie Villager Spawn Egg
+(minecraft:zombie_villager_spawn_egg)
+zombified piglin spawn egg	Zombified Piglin Spawn Egg
+(minecraft:zombified_piglin_spawn_egg)

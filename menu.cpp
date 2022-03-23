@@ -3,7 +3,6 @@
 //
 
 #include "menu.h"
-#include "menu.h"
 using std::endl;
 
 /**
@@ -241,9 +240,6 @@ int Menu::Run() const {
             _errorStream << _invalidMessage + "\n";
             return INVALID_INPUT;
         }
-
     }
-
-
     return 0;
 }
