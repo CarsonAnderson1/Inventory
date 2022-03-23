@@ -16,5 +16,7 @@ add_executable(Inventory
         menu_element.cpp
         menu_element.h
         static_functions.h
-        static_functions.cpp)
+        static_functions.cpp
+        nonStackItems
+        minecraftItemList)
 

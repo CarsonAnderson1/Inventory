@@ -65,15 +65,15 @@ bool Inventory::AddItem(const string& itemName, const int& amount) {
     string newName = RemoveUnderscore(itemName);
     if(newName == "Snowball" || newName == "Bucket" || newName == "Egg" || newName== "Sign" || newName == "Ender Pearl"){
         maxAmount = 16;
-        cout << "This item can only stack to 16" << endl;
+        cout << "THIS ITEM ONLY STACKS TO 16" << endl;
     }
     else if(NonStackItem(newName)){
         maxAmount = 1;
-        cout << "This item can only stack to 1" << endl;
+        cout << "THIS ITEM DOES NOT STACK" << endl;
     }
     else{
         maxAmount = 64;
-        cout << "This item can only stack to 64" << endl;
+        cout << "THIS ITEM ONLY STACKS TO 64" << endl;
     }
 
     /** Adds Items
@@ -81,8 +81,8 @@ bool Inventory::AddItem(const string& itemName, const int& amount) {
      */
     Node* tmp = new Node; /// Creates new node
     Item* itemTmp = new Item(itemName,amount); /// Creates new item
+    itemTmp->SetMaxAmount(maxAmount);
     if(amount > maxAmount){
-        cerr << "Invalid Amount" << endl;
         return false;
     }
     if(_size == 0){ /// Checks to see if the list is empty
@@ -111,8 +111,9 @@ size_t Inventory::GetSize() {
  */
 size_t Inventory::GetIndex(const string &itemName) {
     Node* tmp = _head;
+    string tmpItemName = InputUnderscore(itemName);
     for (int i = 0; i < _size; ++i) {
-        if(tmp->item->GetItem() == itemName){
+        if(tmp->item->GetItem() == tmpItemName){
             return i;
         }
         tmp = tmp->next;
@@ -194,8 +195,10 @@ bool Inventory::Remove(const string &itemName, const int amount) {
     if(index == 0){ /// If the node to delete is the head
         tmp->item->DecreaseAmount(amount);
         if(tmp->item->GetAmount() <= 0){
-            delete tmp->item;
-            delete tmp;
+            Node* toDelete = _head;
+            _head = _head->next;
+            delete toDelete->item;
+            delete toDelete;
             _size --;
             return true;
         }
@@ -219,15 +222,18 @@ bool Inventory::Remove(const string &itemName, const int amount) {
     return false;
 
 }
+/**
+ * Default Constructor for a Node
+ * @param nothing
+ */
 Inventory::Node::Node() {
     next = nullptr;
     item = nullptr;
 }
-
-bool Inventory::SetMaxInventory(const size_t &max) {
-    _maxSize = max;
-
-}
+/**
+ * Finds the longest item in Minecraft in word length
+ * @param nothing
+ */
 size_t Inventory::GetMax()const {
     string itemValid;
     string newString;
@@ -236,7 +242,7 @@ size_t Inventory::GetMax()const {
     size_t colon;
     size_t end;
     size_t maxScore = 0;
-    iFS.open("../anotherList");
+    iFS.open("../minecraftItemList");
     if (iFS.is_open()) {
         while (std::getline(iFS, itemValid)) { /// Looks through each line of the file
             if(itemValid[0] != '('){ /// Checks to see if its the type of line im looking for

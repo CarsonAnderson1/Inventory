@@ -1,6 +1,3 @@
-//
-// Created by ander on 3/19/2022.
-//
 
 #ifndef MINECRAFTINVENTORY_MENU_H
 #define MINECRAFTINVENTORY_MENU_H

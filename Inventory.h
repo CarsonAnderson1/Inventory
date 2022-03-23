@@ -25,14 +25,13 @@ public:
     Inventory();
     ~Inventory();
     Inventory(const Inventory& other);
-    Inventory& operator=(const Inventory& other);
-    void Print()const;
     bool AddItem(const string& itemName, const int& amount);
     bool Remove(const string& itemName, const int amount);
+    void Print()const;
     size_t GetIndex(const string& itemName);
     size_t GetSize();
     size_t GetMax()const;
-    bool SetMaxInventory(const size_t& max);
+    Inventory& operator=(const Inventory& other);
     Item* Get(const size_t& index)const;
 };
 

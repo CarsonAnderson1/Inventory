@@ -21,15 +21,18 @@ Item::Item(string itemName, int amount){
  * Decreases amount of an item in the inventory
  * @param amount
  */
-void Item::DecreaseAmount(int amount) {
+void Item::DecreaseAmount(const int& amount) {
     _amount -= amount;
 }
 /**
  * Increases the amount of an item in the inventory
  * @param amount
  */
-void Item::IncreaseAmount(int amount) {
+void Item::IncreaseAmount(const int& amount) {
     _amount += amount;
+}
+void Item::SetAmount(const int &amount) {
+    _amount = amount;
 }
 /**
  * Returns the item name and number of an item object

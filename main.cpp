@@ -13,6 +13,8 @@ using std::setw;
 using std::fixed;
 using std::setprecision;
 using std::getline;
+using std::stringstream;
+using std::isdigit;
 
 
 
@@ -26,7 +28,7 @@ int main() {
     minecraftMenu.AddMenuOption(0, "1", "Add an item to your inventory");
     minecraftMenu.AddSeparator(1);
     minecraftMenu.AddMenuOption(2,"2","Dispose of item");
-
+    minecraftMenu.AddMenuOption(3,"3","Increase the amount of an item");
 
     /*** Cause it to print everything out **/
     int selected; /// For the switch
@@ -44,7 +46,7 @@ int main() {
             case 0: {
                 string item;
                 string amount;
-                std::stringstream amountStream;
+                stringstream amountStream;
                 int amountNum;
                 cout << "What Item are you adding to your inventory?" << endl;
                 getline(cin, item);
@@ -53,20 +55,21 @@ int main() {
                     cerr << "Enter valid item" << endl;
                     break;
                 }
-                size_t tmpMax = FilterAnotherList(item); /// Finds the largest size of an item in Minecraft
-                inventory.SetMaxInventory(tmpMax); /// Sets the max size
-                tmpMax = inventory.GetMax();
                 cout << "How many are you adding?" << endl; /// Amount to add
                 cin >> amount;
-                if(!std::isdigit(amount.at(0))){ /// Checking to see if a number is being input, otherwise reject it
+                if(!isdigit(amount.at(0))){ /// Checking to see if a number is being input, otherwise reject it
                     cerr << "Enter a valid amount" << endl;
                     break;
                 }
                 amountStream << amount;
                 amountStream >> amountNum;
-                inventory.AddItem(item, amountNum); /// Adds item to inventory
-                NonStackItem(item);
-                inventory.Print(); /// Prints out inventory
+                if(inventory.AddItem(item, amountNum)){ /// Adds item to inventory, and if it returns true it prints out the inventory
+                    inventory.Print();
+                }
+                else{
+                    cerr << "Error in input" << endl;
+                }
+
                 break;
             }
             /**
@@ -75,7 +78,7 @@ int main() {
             case 2:{
                 string item;
                 string amount;
-                std::stringstream amountStream;
+                stringstream amountStream;
                 int amountNum;
 
                 /// Input information to be used
@@ -88,7 +91,7 @@ int main() {
                 amountStream >> amountNum;
 
                 /// Checks to see if the entered amount is a number
-                if(!std::isdigit(amount.at(0))){
+                if(isdigit(amount.at(0))){
                     cerr << "Enter a valid amount" << endl;
                     break;
                 }
@@ -99,6 +102,56 @@ int main() {
                 }
                 inventory.Print();
                 break;
+            }
+                /**
+                 * Increasing the amount of an item in the inventory
+                 */
+            case 3:{
+                string tmpItem;
+                string amount;
+                stringstream amountStream;
+                size_t amountNum;
+                string tmpItemUnderscore;
+                string yesOrNo;
+                Item* tmpItemPointer;
+
+                /// Find item in linked list
+                cout << "Which item do you want to add to?" << endl;
+                cin >> tmpItem;
+                tmpItemUnderscore = InputUnderscore(tmpItem);
+                /// If item does not exist, break, if not, receive pointer to the item
+                if(inventory.GetIndex(tmpItemUnderscore) != -1){
+                    tmpItemPointer = inventory.Get(inventory.GetIndex(tmpItemUnderscore));
+                }
+                else{
+                    cerr << "Item does not exist in list" << endl;
+                    break;
+                }
+                /// How much to increase amount by
+                cout << "How much would you like to add to this item?" << endl;
+                cin >> amount;
+                amountStream << amount;
+                amountStream >> amountNum;
+
+                /// Checks to see if the entered amount is a number
+                if(!isdigit(amount.at(0))){
+                    cerr << "Enter a valid amount" << endl;
+                    break;
+                }
+                /// Increases amount given when within limits
+                if(tmpItemPointer->GetAmount() + amountNum <= tmpItemPointer->GetMaxAmount()) {
+                    tmpItemPointer->IncreaseAmount(amountNum);
+                    break;
+                }
+                /// If amount is beyond limits
+                else{
+                    cerr << "The amount you're increasing goes beyond the item's stack capacity" << endl;
+                    cout << "Would you like to just increase the item to maximum capacity? (y or n)" << endl;
+                    cin >> yesOrNo;
+                    if(yesOrNo == "y"){
+
+                    }
+                }
             }
         }
     }

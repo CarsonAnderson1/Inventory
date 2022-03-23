@@ -13,11 +13,12 @@ class Item {
 private:
     string _item; /// Name of item
     int _amount; /// Amount of that item
-    int _maxAmount;
+    int _maxAmount; /// Maximum amount an item can stack to
 public:
-    Item(string itemName, int amount); /// Constructs Item Object
-    void DecreaseAmount(int amount); /// Decreases amount of an item in inventory
-    void IncreaseAmount(int amount); /// Increases amount of an item in inventory
+    Item(string itemName, int amount);
+    void DecreaseAmount(const int& amount);
+    void IncreaseAmount(const int& amount);
+    void SetAmount(const int& amount);
     int GetAmount()const;
     string Print()const;
     string GetItem()const;
