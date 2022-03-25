@@ -51,15 +51,29 @@ string InputUnderscore(const string& itemName){
             returnString[i] = '_';
         }
     }
+    /// I dont want an underscore for a copy item between its name and the instance
+    /// ex. nether_brick_(3) is bad, i want nether_brick (3)
+    if(returnString.find("_(") > 0 && returnString.find("_(") < returnString.length()){
+        returnString[returnString.find("_(")] = ' ';
+    }
     return returnString;
 }
-string RemoveUnderscore(const string& itemName){
+string RemoveUnderscoreAddCapitals(const string& itemName){
     string returnString = itemName;
     returnString[0] = toupper(returnString[0]);
     for (int i = 0; i < returnString.length(); ++i) {
         if(returnString[i] == '_'){
             returnString[i] = ' ';
             returnString[i+1] = toupper(returnString[i+1]);
+        }
+    }
+    return returnString;
+}
+string RemoveUnderscore(const string& itemName){
+    string returnString = itemName;
+    for (int i = 0; i < returnString.length(); ++i) {
+        if(returnString[i] == '_'){
+            returnString[i] = ' ';
         }
     }
     return returnString;
@@ -91,12 +105,14 @@ bool NonStackItem(const string& itemName) {
                 colon = itemAnotherList.find(':');
                 end = itemAnotherList.find(')');
                 newString = itemAnotherList.substr(colon + 1, end - colon - 1); /// Finds the name of the item
-                if(newString == InputUnderscore(itemName))
+                if(newString == InputUnderscore(itemName)) {
                     break;
                 }
+                }
+            string nonStackUnderscore;
             while (std::getline(iFS, itemNonStack)) { /// Looks through each line of non-stack
-                string nonStackUnderscore = InputUnderscore(itemNonStack);
-                if(newString.find(nonStackUnderscore) < newString.length() && newString.find(nonStackUnderscore) > 0){
+                nonStackUnderscore = InputUnderscore(itemNonStack);
+                if(newString.find(nonStackUnderscore) <= newString.length() && newString.find(nonStackUnderscore) >= 0){
                     iFS.close();
                     iFS2.close();
                     return true;

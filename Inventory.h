@@ -27,10 +27,17 @@ public:
     Inventory(const Inventory& other);
     bool AddItem(const string& itemName, const int& amount);
     bool Remove(const string& itemName, const int amount);
-    void Print()const;
+    bool AddToExistingItem(const string& itemName, int& amount);
+    void PrintSmall()const;
+    void PrintLarge()const;
+    void PrintList()const;
+    size_t FindLargestLength()const;
     size_t GetIndex(const string& itemName);
-    size_t GetSize();
+    size_t GetSize()const;
     size_t GetMax()const;
+    void ItemInstances(const string& itemName)const; /// Sees if this item recurs
+    void CheckItemInstances()const; /// Looks through linked list, checking for recurring items within itself
+    void DecreaseItemInstances(const string& itemName)const;
     Inventory& operator=(const Inventory& other);
     Item* Get(const size_t& index)const;
 };

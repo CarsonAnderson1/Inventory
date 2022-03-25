@@ -12,6 +12,7 @@ using std::endl;
 bool FilterAnotherList(string& itemName);
 bool NonStackItem(const string& itemName);
 string InputUnderscore(const string& itemName);
+string RemoveUnderscoreAddCapitals(const string& itemName);
 string RemoveUnderscore(const string& itemName);
 
 

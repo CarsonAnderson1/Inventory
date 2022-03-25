@@ -11,9 +11,10 @@ using std::string;
 
 class Item {
 private:
-    string _item; /// Name of item
+    string _itemName; /// Name of item
     int _amount; /// Amount of that item
     int _maxAmount; /// Maximum amount an item can stack to
+    size_t _instance = 1;
 public:
     Item(string itemName, int amount);
     void DecreaseAmount(const int& amount);
@@ -24,6 +25,9 @@ public:
     string GetItem()const;
     void SetMaxAmount(const int& max);
     size_t GetMaxAmount()const;
+    void SetInstance(const size_t& instance);
+    size_t GetInstance()const;
+    void ChangeItemName(const string& newName);
 };
 
 

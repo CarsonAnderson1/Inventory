@@ -22,5 +22,14 @@ Created a linked list with a clean display that I can add items to, remove items
 * Display glitches when its size is too large
 * Can't add amount to an item once created
 * Possibly can add too many items?
-* Having the idea to make the menu go multiple menues deep
-* When you go to add an item and it exists, it should add to the currently existing item
+* Having the idea to make the menu go multiple menus deep
+* When you go to add an item, and it exists, it should add to the currently existing item
+* If an item is maxed out, and you try to add to it, it will ask you if you want to add to it
+##Update: March 25, 2022
+###Fixed:
+* Display no longer glitches when size is too large, I created another format of output.
+* Can add amount to an item when it is created.
+* Display is nicer, and the dividers don't have weird lengths
+* Can't add more than 32 items
+* Can add and remove duplicates (up to 9 per item)
+* When you go to add an item that already exists, it will give you the option to put the amount towards that existing item.

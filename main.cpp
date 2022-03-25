@@ -20,7 +20,7 @@ using std::isdigit;
 
 int main() {
     /** Creating the Menu **/
-    Menu minecraftMenu(3);
+    Menu minecraftMenu(5);
     minecraftMenu.SetTitle("Minecraft Inventory");
     minecraftMenu.SetInputType(INT);
     minecraftMenu.SetErrorMessage("Your input was not recognized");
@@ -29,11 +29,12 @@ int main() {
     minecraftMenu.AddSeparator(1);
     minecraftMenu.AddMenuOption(2,"2","Dispose of item");
     minecraftMenu.AddMenuOption(3,"3","Increase the amount of an item");
+    minecraftMenu.AddMenuOption(4,"4","Print the Inventory");
 
     /*** Cause it to print everything out **/
     int selected; /// For the switch
     Inventory inventory;
-    inventory.Print();
+    inventory.PrintSmall();
     while ((selected = minecraftMenu.Run()) != -1) {
         switch (selected) {
             case INVALID_INPUT:
@@ -44,6 +45,10 @@ int main() {
              * Adding an item to the inventory
              */
             case 0: {
+                if(inventory.GetSize() == 32){  // If inventory is full
+                    cerr << "Not enough space in inventory" << endl;
+                    break;
+                }
                 string item;
                 string amount;
                 stringstream amountStream;
@@ -63,8 +68,23 @@ int main() {
                 }
                 amountStream << amount;
                 amountStream >> amountNum;
+                inventory.AddToExistingItem(item,amountNum);
+                if(amountNum == 0){
+                    if(inventory.FindLargestLength()<= 20){
+                        inventory.PrintSmall();
+                    }
+                    else {
+                        inventory.PrintLarge();
+                    }
+                    break;
+                }
                 if(inventory.AddItem(item, amountNum)){ /// Adds item to inventory, and if it returns true it prints out the inventory
-                    inventory.Print();
+                    if(inventory.FindLargestLength()<= 20){
+                        inventory.PrintSmall();
+                    }
+                    else {
+                        inventory.PrintLarge();
+                    }
                 }
                 else{
                     cerr << "Error in input" << endl;
@@ -80,27 +100,35 @@ int main() {
                 string amount;
                 stringstream amountStream;
                 int amountNum;
-
+                /// Checks to see if list is empty first
+                if(inventory.GetSize() == 0){
+                    cerr << "List is empty" << endl;
+                    break;
+                }
                 /// Input information to be used
                 cout << "What Item are you removing from your inventory?" << endl;
                 getline(cin, item);
                 getline(cin, item);
                 cout << "How many are you removing?" << endl;
                 cin >> amount;
-                amountStream << amount;
-                amountStream >> amountNum;
-
                 /// Checks to see if the entered amount is a number
-                if(isdigit(amount.at(0))){
+                if(!isdigit(amount.at(0))){
                     cerr << "Enter a valid amount" << endl;
                     break;
                 }
+                amountStream << amount;
+                amountStream >> amountNum;
                 /// Removes item - Checks if remove worked
                 if(!inventory.Remove(item,amountNum)){
                     cerr << "Unable to remove" << endl;
                     break;
                 }
-                inventory.Print();
+                if(inventory.FindLargestLength() <= 20){
+                    inventory.PrintSmall();
+                }
+                else {
+                    inventory.PrintLarge();
+                }
                 break;
             }
                 /**
@@ -115,6 +143,11 @@ int main() {
                 string yesOrNo;
                 Item* tmpItemPointer;
 
+                /// Checks to see if list is empty first
+                if(inventory.GetSize() == 0){
+                    cerr << "List is empty" << endl;
+                    break;
+                }
                 /// Find item in linked list
                 cout << "Which item do you want to add to?" << endl;
                 cin >> tmpItem;
@@ -127,20 +160,29 @@ int main() {
                     cerr << "Item does not exist in list" << endl;
                     break;
                 }
+                if(tmpItemPointer->GetAmount() == tmpItemPointer->GetMaxAmount()){
+                    cerr << "Item is already at full capacity" << endl;
+                    break;
+                }
                 /// How much to increase amount by
                 cout << "How much would you like to add to this item?" << endl;
                 cin >> amount;
-                amountStream << amount;
-                amountStream >> amountNum;
-
                 /// Checks to see if the entered amount is a number
                 if(!isdigit(amount.at(0))){
                     cerr << "Enter a valid amount" << endl;
                     break;
                 }
+                amountStream << amount;
+                amountStream >> amountNum;
                 /// Increases amount given when within limits
                 if(tmpItemPointer->GetAmount() + amountNum <= tmpItemPointer->GetMaxAmount()) {
                     tmpItemPointer->IncreaseAmount(amountNum);
+                    if(inventory.FindLargestLength() <= 20){
+                        inventory.PrintSmall();
+                    }
+                    else {
+                        inventory.PrintLarge();
+                    }
                     break;
                 }
                 /// If amount is beyond limits
@@ -148,10 +190,46 @@ int main() {
                     cerr << "The amount you're increasing goes beyond the item's stack capacity" << endl;
                     cout << "Would you like to just increase the item to maximum capacity? (y or n)" << endl;
                     cin >> yesOrNo;
-                    if(yesOrNo == "y"){
-
+                    if(yesOrNo == "y" || yesOrNo == "Y"){
+                        tmpItemPointer->SetAmount(tmpItemPointer->GetMaxAmount());
+                        if(inventory.FindLargestLength() <= 20){
+                            inventory.PrintSmall();
+                        }
+                        else {
+                            if(inventory.FindLargestLength() <= 20){
+                                inventory.PrintSmall();
+                            }
+                            else {
+                                inventory.PrintLarge();
+                            }
+                        }
+                        break;
+                    }
+                    else{
+                        inventory.PrintSmall();
+                        break;
                     }
                 }
+            }
+            case 4:{
+                string yesOrNo;
+                cout << "Print Inventory as a list? (y or n)" << endl;
+                cin >> yesOrNo;
+                if (yesOrNo == "Y" || yesOrNo == "y" || yesOrNo == "Yes" || yesOrNo == "yes" || yesOrNo == "YES") {
+                    inventory.PrintList();
+                }
+                else if (yesOrNo == "N" || yesOrNo == "n" || yesOrNo == "No" || yesOrNo == "no" || yesOrNo == "NO") {
+                    if(inventory.FindLargestLength() <= 20){
+                        inventory.PrintSmall();
+                    }
+                    else {
+                        inventory.PrintLarge();
+                    }
+                }
+                else{
+                    cerr << "Input not recognized" << endl;
+                    break;
+                };
             }
         }
     }

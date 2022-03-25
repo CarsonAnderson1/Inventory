@@ -14,7 +14,7 @@ using std::ifstream;
  * @param string: item name, int: amount
  */
 Item::Item(string itemName, int amount){
-    _item = itemName;
+    _itemName = itemName;
     _amount = amount;
 }
 /**
@@ -34,6 +34,9 @@ void Item::IncreaseAmount(const int& amount) {
 void Item::SetAmount(const int &amount) {
     _amount = amount;
 }
+void Item::ChangeItemName(const string &newName) {
+    _itemName = newName;
+}
 /**
  * Returns the item name and number of an item object
  * @param nothing
@@ -45,7 +48,7 @@ string Item::Print() const {
     tmpStream << _amount;
     tmpStream >> tmpString;
 
-    tmpString = _item + ": " + tmpString;
+    tmpString = _itemName + ": " + tmpString;
     return tmpString;
 }
 /**
@@ -53,7 +56,7 @@ string Item::Print() const {
  * @param nothing
  */
 string Item::GetItem() const {
-    return _item;
+    return _itemName;
 }
 /**
  * Returns amount of item
@@ -76,4 +79,9 @@ void Item::SetMaxAmount(const int& max){
 size_t Item::GetMaxAmount() const {
     return _maxAmount;
 }
-
+void Item::SetInstance(const size_t &instance) {
+    _instance = instance;
+}
+size_t Item::GetInstance() const {
+    return _instance;
+}
