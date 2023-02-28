@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Inventory::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Inventory-Debug-4ce315825452f2419ad9.json",
+					"jsonFile" : "target-Inventory-Debug-822538862314ac1c4fa5.json",
 					"name" : "Inventory",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/ander/OneDrive/development/Inventory/cmake-build-debug",
-		"source" : "C:/Users/ander/OneDrive/development/Inventory"
+		"build" : "C:/dev/clion/Inventory/cmake-build-debug",
+		"source" : "C:/dev/clion/Inventory"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 4
 	}
 }

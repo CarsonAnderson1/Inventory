@@ -8,7 +8,6 @@
 #include "string"
 #include <fstream>
 #include <static_functions.h>
-using std::cout;
 using std::string;
 using std::endl;
 using std::right;
